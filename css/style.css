@@ -2725,9 +2725,9 @@ blockquote p {
     margin:  8px 0 0 20px;
 }
 
+
 .gallery-item:nth-child(2) {
-    width: 65%;
-	padding: 74px 3px;
+    width: 100%;
 	float: left;
 }
 .gallery-item:nth-child(14) {
