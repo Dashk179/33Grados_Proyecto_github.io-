@@ -2726,13 +2726,13 @@ blockquote p {
 }
 
 .gallery-item:nth-child(2) {
-    width: 66%;
-	padding: 74px 0;
+    width: 65%;
+	padding: 74px 3px;
 	float: left;
 }
 .gallery-item:nth-child(14) {
     width: 66%;
-	padding: 7px 0;
+	padding: 7px 3px;
 	float: left;
 }
 
@@ -2846,7 +2846,7 @@ blockquote p {
 	height: 30px
 }	
 .hov_box-title a {
-    font-size: 16px;
+    font-size: 8px;
 }
 .policy-box {
 	right: 0;
