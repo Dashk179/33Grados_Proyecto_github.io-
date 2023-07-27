@@ -2322,6 +2322,23 @@ blockquote p {
 	opacity: 0;
 	visibility: hidden;
 }
+
+/* Estilos para el nuevo div que contiene la imagen */
+
+
+
+.image-container3 {
+    margin: 250px auto; /* Ajusta los márgenes según lo desees */
+    max-width: 500px; /* Ajusta el ancho máximo de la imagen según lo desees */
+    text-align: center; /* Centrar horizontalmente la imagen */
+}
+
+.image-container3 img {
+    max-width: 100%;
+    height: auto; /* La imagen se ajustará de manera proporcional al ancho máximo */
+}
+
+
 /* ------responsive------------------------------------------------------------ */
 @media only screen and (max-width: 1264px) {
 .hs_init-container {
