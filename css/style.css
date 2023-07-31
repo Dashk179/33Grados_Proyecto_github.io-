@@ -2790,6 +2790,9 @@ blockquote p {
 	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
     overflow: hidden;
 }
+.gallery-item:nth-child(6) img {
+	width: 240%;
+}
 
 /* Numero 7 */
 .gallery-item:nth-child(7) {
@@ -2834,6 +2837,11 @@ blockquote p {
 	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
     overflow: hidden;
 }
+.gallery-item:nth-child(11) img {
+	width: 220%;
+    height: 100%;
+    object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
+}
 
 /*Ecoturístico */
 .gallery-item:nth-child(12) {
@@ -2852,6 +2860,11 @@ blockquote p {
     overflow: hidden;
 }
 
+.gallery-item:nth-child(13) img {
+	width: 220%;
+    height: 120%;
+    object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
+}
 
 /* Emiliano Zapata */
 .gallery-item:nth-child(14) {
@@ -2868,7 +2881,7 @@ blockquote p {
 }
 .gallery-item:nth-child(15) img {
     width: 55%;
-	height: 100%;
+	height: 10%;
     object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
 }
 
