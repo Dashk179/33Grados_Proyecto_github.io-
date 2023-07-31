@@ -2743,24 +2743,163 @@ blockquote p {
 }
 
 
+/* plaxa y fuerte Galeana */
 .gallery-item:nth-child(2) {
-    width: 100%;
+    width: 66%;
+	float: left;
+	aspect-ratio: 1740/593; /* Proporción de 1740x530 */
+}
+
+.gallery-item:nth-child(2) img {
+	width: 110%;
+    height: 100%;
+    object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
+}
+.gallery-item:nth-child(1) {
+    width: 33%;
+	/* padding:3px 0; */
+	float: left;
+
+
+}
+.gallery-item:nth-child(3) {
+    width: 33%;
+	/* padding:3px 0; */
+	float: left;
+
+
+}
+.gallery-item:nth-child(5) {
+    width: 33%;
+	/* padding:3px 0; */
+	float: left;
+
+
+}
+.gallery-item:nth-child(4) {
+    width: 33%;
+	/* padding:3px 0; */
+	float: left;
+
+
+}
+/* Hotel 3s */
+.gallery-item:nth-child(6) {
+    width: 33%;
+	float: left;
+	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
+    overflow: hidden;
+}
+
+/* Numero 7 */
+.gallery-item:nth-child(7) {
+    width:33%;
 	float: left;
 }
-.gallery-item:nth-child(14) {
+
+
+
+/* Imagen 9 */
+.gallery-item:nth-child(8) {
+    width: 33%;
+	float: left;
+}
+
+.gallery-item:nth-child(9) {
+    aspect-ratio: 1740/530; /* Proporción de 1740x530 */
+    order: 20;
+    float: left;
+    position: relative; /* Es importante establecer la posición como relativa */
+}
+
+/* Estilo para la imagen dentro del contenedor */
+.gallery-item:nth-child(9) img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ajusta la imagen para cubrir todo el contenedor sin deformarse */
+}
+/* Acueducto */
+.gallery-item:nth-child(10) {
+    width: 100%;
+
+	float: right;
+}
+
+
+/* Casa Burgos */
+.gallery-item:nth-child(11) {
+    width: 33%;
+	/* padding: 7px 3px; */
+	float: left;
+	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
+    overflow: hidden;
+}
+
+/*Ecoturístico */
+.gallery-item:nth-child(12) {
     width: 66%;
-	padding: 7px 3px;
+	float: left;
+	
+	
+}
+
+/* Bisuu */
+.gallery-item:nth-child(13) {
+    width: 33%;
+	/* padding: 7px 3px; */
+	float: left;
+	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
+    overflow: hidden;
+}
+
+
+/* Emiliano Zapata */
+.gallery-item:nth-child(14) {
+    width: 100%;
+	/* padding: 7px 3px; */
+	float: left;
+}
+
+/*Casa Olimtepec*/
+.gallery-item:nth-child(15) {
+	width: 66%;
+	aspect-ratio: 1740/580; /* Proporción de 1740x530 */
+    overflow: hidden;
+}
+.gallery-item:nth-child(15) img {
+    width: 55%;
+	height: 100%;
+    object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
+}
+
+/* Casa Staines */
+.gallery-item:nth-child(16) {
+    width: 33%;
+	float: left;
+}
+
+/*casa Blanca*/
+.gallery-item:nth-child(17) {
+    width: 33%;
+	float: left;
+}
+.gallery-item:nth-child(18) {
+    width: 33%;
+	float: left;
+}
+.gallery-item:nth-child(19) {
+    width: 33%;
 	float: left;
 }
 
 .gallery-items {
     width: 100%;
-    padding:74px 0;
 	float: left;
+	display: flex;
 }
 .gallery-item {
-    width: 33.3%;
-    padding:4px;
+	width: 33%;
+
 }
 .hero-showcase , .fw-carousel .swiper-container  {
     position:relative;
