@@ -2880,10 +2880,17 @@ blockquote p {
     overflow: hidden;
 }
 .gallery-item:nth-child(15) img {
-    width: 55%;
-	height: 10%;
-    object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
+	width: 100%;
+    height: 100%; /* Altura fija del 10% del contenedor */
+    transform: translateY(-50%); /* Centrar verticalmente la imagen */
 }
+
+.gallery-item:nth-child(15) .hov_box-title {
+    width: 110%;
+	height: 50%;
+	transform: translate(-5%, -60%); /* Ajustar el elemento al centro */
+}
+
 
 /* Casa Staines */
 .gallery-item:nth-child(16) {
@@ -2912,7 +2919,6 @@ blockquote p {
 }
 .gallery-item {
 	width: 33%;
-
 }
 .hero-showcase , .fw-carousel .swiper-container  {
     position:relative;
