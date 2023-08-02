@@ -2769,29 +2769,24 @@ blockquote p {
 
 
 }
-.gallery-item:nth-child(5) {
-    width: 33%;
-	/* padding:3px 0; */
-	float: left;
 
-
-}
 .gallery-item:nth-child(4) {
     width: 33%;
 	/* padding:3px 0; */
 	float: left;
+	
+}
 
-
+/*Guadalajara */
+.gallery-item:nth-child(5) {
+    width: 33%;
+	/* padding:3px 0; */
+	float: left;
 }
 /* Hotel 3s */
 .gallery-item:nth-child(6) {
     width: 33%;
 	float: left;
-	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
-    overflow: hidden;
-}
-.gallery-item:nth-child(6) img {
-	width: 240%;
 }
 
 /* Numero 7 */
@@ -2808,23 +2803,19 @@ blockquote p {
 	float: left;
 }
 
+/*Casa clarOscuro */
 .gallery-item:nth-child(9) {
-    aspect-ratio: 1740/530; /* Proporción de 1740x530 */
-    order: 20;
-    float: left;
-    position: relative; /* Es importante establecer la posición como relativa */
+	
+    width:33%;
+	float: left;
 }
 
-/* Estilo para la imagen dentro del contenedor */
-.gallery-item:nth-child(9) img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover; /* Ajusta la imagen para cubrir todo el contenedor sin deformarse */
-}
+
+
+
 /* Acueducto */
 .gallery-item:nth-child(10) {
     width: 100%;
-
 	float: right;
 }
 
@@ -2904,6 +2895,7 @@ blockquote p {
 	float: left;
 }
 .gallery-item:nth-child(18) {
+	
     width: 33%;
 	float: left;
 }
@@ -2916,9 +2908,11 @@ blockquote p {
     width: 100%;
 	float: left;
 	display: flex;
+	
 }
 .gallery-item {
 	width: 33%;
+	padding: 4px;
 }
 .hero-showcase , .fw-carousel .swiper-container  {
     position:relative;
