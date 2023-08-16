@@ -2876,12 +2876,6 @@ blockquote p {
     transform: translateY(-50%); /* Centrar verticalmente la imagen */
 }
 
-.gallery-item:nth-child(15) .hov_box-title {
-    width: 110%;
-	height: 50%;
-	transform: translate(-5%, -60%); /* Ajustar el elemento al centro */
-}
-
 
 /* Casa Staines */
 .gallery-item:nth-child(16) {
