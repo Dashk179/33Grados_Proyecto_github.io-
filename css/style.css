@@ -2867,7 +2867,7 @@ blockquote p {
 /*Casa Olimtepec*/
 .gallery-item:nth-child(15) {
 	width: 66%;
-	aspect-ratio: 1740/530; /* Proporción de 1740x530 */
+	aspect-ratio: 1740/593; /* Proporción de 1740x530 */
     overflow: hidden;
 }
 .gallery-item:nth-child(15) img {
