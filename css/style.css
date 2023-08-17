@@ -2873,7 +2873,7 @@ blockquote p {
 .gallery-item:nth-child(15) img {
 	width: 100%;
     height: 100%; /* Altura fija del 10% del contenedor */
-    transform: translateY(-50%); /* Centrar verticalmente la imagen */
+    transform: translateY(-10%); /* Centrar verticalmente la imagen */
 }
 
 /*Cambiar el tamaño de hov_box en el child 15*/
@@ -2888,7 +2888,7 @@ blockquote p {
 .gallery-item:nth-child(16) {
     width: 33%;
 	float: left;
-}
+} 
 
 /*casa Blanca*/
 .gallery-item:nth-child(17) {
