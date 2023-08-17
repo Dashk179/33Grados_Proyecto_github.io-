@@ -2876,12 +2876,11 @@ blockquote p {
     transform: translateY(-50%); /* Centrar verticalmente la imagen */
 }
 
-/* Cambiar el tamaño de hov_box en el child 15 */
+/*Cambiar el tamaño de hov_box en el child 15*/
 .gallery-item:nth-child(15) .hov_box {
-     /* Cambiar el ancho según sea necesario */
-    padding-bottom: calc(50% * 20 / 93); /* Calcular el alto según la proporción */
+    width: 221.750px;
+    height: 74.297px;
 }
-
 
 
 
