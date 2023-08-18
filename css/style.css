@@ -2798,8 +2798,17 @@ blockquote p {
 
 
 /* Imagen 9 */
-.gallery-item:nth-child(8) {
-    width: 33%;
+.gallery-item:nth-child(8)  {
+	width: 33%;
+	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
+	float: left;
+}
+
+
+/* Imagen 9 */
+.gallery-item:nth-child(8) img {
+	width: 100%;
+	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
 	float: left;
 }
 
@@ -2913,7 +2922,7 @@ blockquote p {
 }
 .gallery-item {
 	width: 33%;
-	padding: 4px;
+	
 }
 .hero-showcase , .fw-carousel .swiper-container  {
     position:relative;
