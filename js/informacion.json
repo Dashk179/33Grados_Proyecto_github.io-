@@ -1,63 +1,168 @@
 [{
-   "title": "Proyecto 1",
+   "title": "Casa Jacarandas",
    "description": [
-      "Nulla scelerisque, enim id elementum suscipit, magna odio fermentum arcu, nec dictum nibh nibh et magna.",
-      "Praesent nec leo venenatis elit semper aliquet id ac enim. Maecenas nec mi leo. Etiam venenatis ut dui non hendrerit. Integer dictum, diam vitae blandit accumsan, dolor odio tempus arcu, vel ultrices nisi nibh vitae ligula.",
-      "Nulla scelerisque, enim id elementum suscipit, magna odio fermentum arcu, nec dictum nibh nibh et magna."
-   ],
-   "location": "NY, USA",
-   "category": "Travel",
-   "model": "Austin Onishe",
-   "camera": "Canon 6d"
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
 },
 {
-   "title": "Proyecto 2",
+  
+   "title": "Alameda",
    "description": [
-      "XXXX-2"
-   ],
-   "location": "XXXX-2",
-   "category": "XXXX-2",
-   "model": "XXXX-2",
-   "camera": "XXXX-2"
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
 },
 {
-   "title": "Proyecto 3",
+   "title": "Berzy-Le-Sec",
    "description": [
-      "XXXX-3"
-   ],
-   "location": "XXXX-3",
-   "category": "XXXX-3",
-   "model": "XXXX-3",
-   "camera": "XXXX-3"
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
 },
 {
-   "title": "Proyecto 4",
-   "description": [
-      "XXXX-4"
-   ],
-   "location": "XXXX-4",
-   "category": "XXXX-4",
-   "model": "XXXX-4",
-   "camera": "XXXX-4"
+   
 },
 {
-   "title": "Proyecto 5",
+   "title": "CASA MAORIS",
    "description": [
-      "XXXX-5"
+      "De un trazo simplista y con un diseño a escuadra para favorecer la directriz oriente de la zona de las recámaras, la residencia, con un matiz sobrio se desplanta en dos niveles. Una fuerte conexión con el exterior se mantiene en la planta baja de la casa, con vistas que se prolongan a los jardines y que se acentúan a través de los ventanales del área de estar atravesando hasta un pequeño espejo de agua que invita a la paz.",
+      "En planta alta y coincidiendo con el eje oriente-poniente se alojan las recámaras dispuestas de manera lineal. Dichos espacios se abren hacia el oriente para el máximo aprovechamiento solar mientras que su lado opuesto se ha optado por mitigar los efectos de la insolación a través de una celosía con un diseño sinuoso en forma de persiana.",
+      "Los pasillos exteriores basados en un patrón aleatorio funcionan como una malla que entreteje los espacios, de ésta manera se definen los accesos y la geometría de la alberca, se conforman diversas jardineras dispuestas a lo largo y ancho del predio y finalmente conectan con al área de bungalows."
    ],
-   "location": "XXXX-5",
-   "category": "XXXX-5",
-   "model": "XXXX-5",
-   "camera": "XXXX-5"
+   "location": "Lennin",
+   "category": "Arq. Francisco Xihuicóatl",
+   "model": ["San Pedro Apatlaco, Cd. Ayala, Mor"],
+   "fecha": "2016",
+   "superficie": "482.17 m2",
+   "render": "Arq. Luis Zúñiga / Arq. Francisco Xihuicóatl, Arq. Omar Hidalgo"
 },
 {
-   "title": "Proyecto 6",
+  
+   "title": "Oficinas",
    "description": [
-      "XXXX-6"
-   ],
-   "location": "XXXX-6",
-   "category": "XXXX-6",
-   "model": "XXXX-6",
-   "camera": "XXXX-6"
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
+},
+{
+  
+   "title": "Hotel 3S",
+   "description": [
+   "",
+   "",      
+   ""  
+ ],
+ "location": "",
+ "category": "",
+ "model": [""],
+ "fecha": "",
+ "superficie": "",
+ "render": ""
+},
+{
+  
+   "title": "CENTRO ECOTURÍSTICO CERRO EL CHUMIL",
+   "description": [
+   "Enmarcado por un fabuloso paisaje y al pie del cerro del Chumil se erige el centro ecoturístico del mismo nombre. Dicha construcción es una extensión de una edificación existente, donde  se mezclan los valores de la arquitectura vernácula del pueblo de Jantetelco y la vida de campo de sus habitantes que se reflejan en el lenguaje formal de las casas tradicionales levantadas en un entorno paisajístico.   ",
+   "El proyecto responde a la necesidad del ejido de Jantetelco por generar una oportunidad de desarrollo para la comunidad en el que se ofrece hospedaje en cabañas de adobe, servicios de restaurante, área de acampar, baños sauna y tirolesa. Las cabañas, fabricadas de adobe son de dos tipos, la primera de dos niveles cuenta con una capacidad para ocho personas, mientras que la segunda de un nivel ofrece una área para cuatro personas, ambas dotadas con baño propio. Al estar alejado del ruido de las grandes urbes circundantes, el diseño provee un espacio para la paz y la interiorización del ser humano. ",      
+   ""  
+ ],
+ "arquitecto": "Lennin Vick",
+   "colaboradores": "N/A",
+   "lugar": ["Jantetelco, Mor"],
+   "fecha": "2012",
+   "superficie": "—- — m2",
+   "render": "Arq. Lennin Vick / Arq. Alfredo Zúñiga"
+},
+{
+  
+   "title": "Casa 2k",
+   "description": [
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
+}
+,
+{
+  
+   "title": "Proyecto 11",
+   "description": [
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
+}
+,
+{
+  
+   "title": "Chalca",
+   "description": [
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
+},
+{
+  
+   "title": "Bissu",
+   "description": [
+   "",
+   "",      
+   ""  
+ ],
+   "location": "",
+   "category": "",
+   "model": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
 }
 ]
