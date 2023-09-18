@@ -51,9 +51,9 @@
       "En planta alta y coincidiendo con el eje oriente-poniente se alojan las recámaras dispuestas de manera lineal. Dichos espacios se abren hacia el oriente para el máximo aprovechamiento solar mientras que su lado opuesto se ha optado por mitigar los efectos de la insolación a través de una celosía con un diseño sinuoso en forma de persiana.",
       "Los pasillos exteriores basados en un patrón aleatorio funcionan como una malla que entreteje los espacios, de ésta manera se definen los accesos y la geometría de la alberca, se conforman diversas jardineras dispuestas a lo largo y ancho del predio y finalmente conectan con al área de bungalows."
    ],
-   "location": "Lennin",
-   "category": "Arq. Francisco Xihuicóatl",
-   "model": ["San Pedro Apatlaco, Cd. Ayala, Mor"],
+   "arquitecto": "Lennin",
+   "colaboradores": "Arq. Francisco Xihuicóatl",
+   "lugar": ["San Pedro Apatlaco, Cd. Ayala, Mor"],
    "fecha": "2016",
    "superficie": "482.17 m2",
    "render": "Arq. Luis Zúñiga / Arq. Francisco Xihuicóatl, Arq. Omar Hidalgo"
@@ -96,7 +96,7 @@
    "El proyecto responde a la necesidad del ejido de Jantetelco por generar una oportunidad de desarrollo para la comunidad en el que se ofrece hospedaje en cabañas de adobe, servicios de restaurante, área de acampar, baños sauna y tirolesa. Las cabañas, fabricadas de adobe son de dos tipos, la primera de dos niveles cuenta con una capacidad para ocho personas, mientras que la segunda de un nivel ofrece una área para cuatro personas, ambas dotadas con baño propio. Al estar alejado del ruido de las grandes urbes circundantes, el diseño provee un espacio para la paz y la interiorización del ser humano. ",      
    ""  
  ],
- "arquitecto": "Lennin Vick",
+   "arquitecto": "Lennin Vick",
    "colaboradores": "N/A",
    "lugar": ["Jantetelco, Mor"],
    "fecha": "2012",
@@ -111,9 +111,9 @@
    "",      
    ""  
  ],
-   "location": "",
-   "category": "",
-   "model": [""],
+   "arquitecto": "",
+   "colaboradores": "",
+   "lugar": [""],
    "fecha": "",
    "superficie": "",
    "render": ""
@@ -127,9 +127,9 @@
    "",      
    ""  
  ],
-   "location": "",
-   "category": "",
-   "model": [""],
+   "arquitecto": "",
+   "colaboradores": "",
+   "lugar": [""],
    "fecha": "",
    "superficie": "",
    "render": ""
@@ -143,9 +143,9 @@
    "",      
    ""  
  ],
-   "location": "",
-   "category": "",
-   "model": [""],
+   "arquitecto": "",
+   "colaboradores": "",
+   "lugar": [""],
    "fecha": "",
    "superficie": "",
    "render": ""
@@ -158,11 +158,122 @@
    "",      
    ""  
  ],
-   "location": "",
-   "category": "",
-   "model": [""],
+   "arquitecto": "",
+   "colaboradores": "",
+   "lugar": [""],
    "fecha": "",
    "superficie": "",
    "render": ""
 }
+,
+{
+  
+   "title": "Mausoleo",
+   "description": [
+   "",
+   "",      
+   ""  
+ ],
+   "arquitecto": "",
+   "colaboradores": "",
+   "lugar": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
+},
+{
+  
+   "title": "CASA OLINTEPEC",
+   "description": [
+   "",
+   "",      
+   ""  
+ ],
+   "arquitecto": "",
+   "colaboradores": "",
+   "lugar": [""],
+   "fecha": "",
+   "superficie": "",
+   "render": ""
+},
+   {
+   
+      "title": "CASA LAGO",
+      "description": [
+      "",
+      "",      
+      ""  
+   ],
+      "arquitecto": "",
+      "colaboradores": "",
+      "lugar": [""],
+      "fecha": "",
+      "superficie": "",
+      "render": ""
+   },
+   {
+   
+      "title": "Bissu",
+      "description": [
+      "",
+      "",      
+      ""  
+   ],
+      "arquitecto": "",
+      "colaboradores": "",
+      "lugar": [""],
+      "fecha": "",
+      "superficie": "",
+      "render": ""
+   }
+   ,
+   {
+   
+      "title": "Mausoleo",
+      "description": [
+      "",
+      "",      
+      ""  
+   ],
+      "arquitecto": "",
+      "colaboradores": "",
+      "lugar": [""],
+      "fecha": "",
+      "superficie": "",
+      "render": ""
+   }
+    ,
+   {
+   
+      "title": "RESTAURANTE CASA BLANCA",
+      "description": [
+      "El proyecto se emplaza en la comunidad de Quebrantadero, al sur-oriente del estado de Morelos. Ofrece un bar que da servicio tanto al exterior como interior, área de restaurante, cocina, baños, un jardín como remate visual y un alojo para 228 comensales. ",
+      "El restaurante se adapta a una construcción existente y crece de manera robusta y ordenada para constituir un edificio con características únicas que se hacen presentes al armonizar materiales, visuales y espacios. ",
+       "El usuario es recibido por un cubo de doble altura que además enlaza al bar externo dotado de un jardin interior. A su ingreso la cocina se muestra cómo el espacio jerárquico que por su ubicación, posee una visión plena de cada rincón del restaurante. Mediante una escalera helicoidal y flanqueada por un barandal de placa de acero se accesa a la planta alta, donde se alojan 72 comensales",
+       "El material a base de acero en tonos oscuros que se eligió como método de construcción, contrasta de manera armónica con el jardin contiguo. Dicho jardin otorga una visual refrescante que conecta con el comensal para coadyuvar en su confort mientras degusta sus alimentos. "  
+   ],
+      "arquitecto": "Lennin Vick",
+      "colaboradores": "Arq. Jair Bollera",
+      "lugar": ["Quebrantadero, Axochiapan, Mor."],
+      "fecha": "2018",
+      "superficie": "—- — m2",
+      "render": "Arq. Jair Bollera, Arq. Luis Zúñiga / Arq. Alexis F. Pacheco"
+   }
+   ,
+   {
+   
+      "title": "",
+      "description": [
+      "",
+      "",      
+      ""  
+   ],
+      "arquitecto": "",
+      "colaboradores": "",
+      "lugar": [""],
+      "fecha": "",
+      "superficie": "",
+      "render": ""
+   }
+   
 ]

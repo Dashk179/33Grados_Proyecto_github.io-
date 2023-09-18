@@ -18,14 +18,14 @@ window.onload = function() {
             descriptionElement.appendChild(p);
          });
 
-         const locationElement = productDetailsContainer.querySelector('#arquitecto');
-         locationElement.textContent = data[index].arquitecto;
+         const arquitectoElement = productDetailsContainer.querySelector('#arquitecto');
+         arquitectoElement.textContent = data[index].arquitecto;
 
-         const categoryElement = productDetailsContainer.querySelector('#colaboradores');
-         categoryElement.textContent = data[index].colaboradores;
+         const ccolaboradoresElement = productDetailsContainer.querySelector('#colaboradores');
+         ccolaboradoresElement.textContent = data[index].colaboradores;
 
-         const modelElement = productDetailsContainer.querySelector('#lugar');
-         modelElement.textContent = data[index].lugar;
+         const lugarElement = productDetailsContainer.querySelector('#lugar');
+         lugarElement.textContent = data[index].lugar;
 
          const fechaElement = productDetailsContainer.querySelector('#fecha');
          fechaElement.textContent = data[index].fecha;
@@ -70,9 +70,58 @@ window.onload = function() {
               
               const img7Element = document.querySelector('#img7');
               img7Element.src = data[index].img7;
+                
+              const img8Element = document.querySelector('#img8');
+              img8Element.src = data[index].img8;
+                
+              const img9Element = document.querySelector('#img9');
+              img9Element.src = data[index].img9;
+                
+              const img10Element = document.querySelector('#img10');
+              img10Element.src = data[index].img10;
+                
+              const img11Element = document.querySelector('#img11');
+              img11Element.src = data[index].img11;
+
+              const img12Element = document.querySelector('#img12');
+              img12Element.src = data[index].img12;
+
+              const img13Element = document.querySelector('#img13');
+              img13Element.src = data[index].img13;
+              
+              const img14Element = document.querySelector('#img14');
+              img14Element.src = data[index].img14;
+
+              const img16Element = document.querySelector('#img16');
+              img16Element.src = data[index].img16;
+
+              const img17Element = document.querySelector('#img17');
+              img17Element.src = data[index].img17;
+
+              const img18Element = document.querySelector('#img18');
+              img18Element.src = data[index].img18;
+
+              const img19Element = document.querySelector('#img19');
+              img19Element.src = data[index].img19;
   
               
          
+      })
+      .catch(error => {
+          console.error('Error al cargar el JSON:', error);
+      });
+
+      fetch('js/axonometricos.json')
+      .then(response => response.json())
+      .then(data => {
+          // Asegurémonos de que el índice sea válido
+        
+              const axonometrico1Element = document.querySelector('#axonometrico1');
+              axonometrico1Element.src = data[index].axonometrico1;
+  
+              const axonometrico2Element = document.querySelector('#axonometrico2');
+              axonometrico2Element.src = data[index].axonometrico2;
+  
       })
       .catch(error => {
           console.error('Error al cargar el JSON:', error);

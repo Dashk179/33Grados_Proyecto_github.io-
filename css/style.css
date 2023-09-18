@@ -862,7 +862,7 @@ blockquote p {
 /* ------portfolio------------------------------------------------------------ */
 .gallery-items {
 	width:150%;
-	padding:  0 150px 150px 0;
+	padding:  10 150px 150px 0;
 }
 .grid-item-holder , .folio-img {
 	float:left;
