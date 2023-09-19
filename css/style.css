@@ -2716,7 +2716,7 @@ blockquote p {
 		float: left;
 	}
 	.slider-wrap .swiper-slide, .fw-carousel .swiper-slide {
-		width: 50%!important;
+		width: 100%!important;
 		height: auto!important;
 		float: left;
 	}
@@ -3145,7 +3145,7 @@ blockquote p {
 		float: left;
 	}
 	.slider-wrap .swiper-slide, .fw-carousel .swiper-slide {
-		width: 50%!important;
+		width: 100%!important;
 		height: auto!important;
 		float: left;
 	}
