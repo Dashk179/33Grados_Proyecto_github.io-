@@ -1,4 +1,4 @@
- function initEndor() {
+function initEndor() {
     "use strict";
     // preload------------------
  
@@ -28,7 +28,7 @@
         $('.hero-section_bg .bg').css('transform', 'translate3d(0, ' + +(scrolled * 0.25) + 'px, 0)');
     });
     //   clone ------------------
-$.fn.duplicate = function (a, b) {
+    $.fn.duplicate = function (a, b) {
         var c = [];
         for (var d = 0; d < a; d++) $.merge(c, this.clone(b).get());
         return this.pushStack(c);

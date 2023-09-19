@@ -130,6 +130,6 @@ window.onload = function() {
    // Ocultar el contenedor de detalles del producto cuando se hace clic en el botón "Close Details"
    const closeButton = productDetailsContainer.querySelector('.cpr_det');
    closeButton.addEventListener('click', function() {
-      productDetailsContainer.style.display = 'none';
+      productDetailsContainer.style.display = 'block';
    });
 }
