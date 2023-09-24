@@ -4,10 +4,16 @@
 <head>
     <!--=============== basic  ===============-->
     <meta charset="UTF-8">
-    <title>Endor Photography - Creative Responsive Photography Portfolio</title>
+    <title>33 - Grados-Arquitectos</title>
     <meta name="robots" content="index, follow" />
     <meta name="keywords" content="" />
     <meta name="description" content="" />
+       <!--=============== scripts  ===============-->
+       <script src="js/informacion_portafolio.js"></script>
+       <script src="js/jquery.min.js"></script>
+       <script src="js/plugins.js"></script>
+     
+    
     <!--=============== css  ===============-->
     <link type="text/css" rel="stylesheet" href="css/plugins.css">
     <link type="text/css" rel="stylesheet" href="css/style.css">
@@ -34,10 +40,10 @@
             <nav>
                 <ul>
                     <li>
-                        <a href="index.html" class="ajax">Acerca de</a>
+                        <a href="index.html" class="ajax">Trabajos</a>
                     </li>
                     <li>
-                        <a href="about.html" class="ajax">Trabajos</a>
+                        <a href="about.html" class="ajax">Acerca de</a>
                     </li>
                     <li>
                         <a href="blog.html" class="ajax">Noticias</a>
@@ -70,8 +76,8 @@
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
                                     <div class="anim-fw">
-                                        <img src="images/folio/1.jpg" alt="">
-                                        <a href="images/folio/1.jpg" class="box-media-zoom   popup-image"><i
+                                        <img id="img1" src=" " alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
                                                 class="fal fa-search"></i></a>
                                     </div>
                                 </div>
@@ -79,8 +85,8 @@
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
                                     <div class="anim-fw">
-                                        <img src="images/folio/1.jpg" alt="">
-                                        <a href="images/folio/1.jpg" class="box-media-zoom   popup-image"><i
+                                        <img id="img2" src=" " alt="">
+                                        <a href="images/TRABAJOS/Detalles/07-CHUMIL/CHUMIL-01.jpg" class=""><i
                                                 class="fal fa-search"></i></a>
                                     </div>
                                 </div>
@@ -88,8 +94,8 @@
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
                                     <div class="anim-fw">
-                                        <img src="images/folio/2.jpg" alt="">
-                                        <a href="images/folio/2.jpg" class="box-media-zoom   popup-image"><i
+                                        <img id="img3" src="" alt="">
+                                        <a href="images/TRABAJOS/Detalles/07-CHUMIL/CHUMIL-01.jpg" class=""><i
                                                 class="fal fa-search"></i></a>
                                     </div>
                                 </div>
@@ -97,8 +103,8 @@
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
                                     <div class="anim-fw">
-                                        <img src="images/folio/1.jpg" alt="">
-                                        <a href="images/folio/1.jpg" class="box-media-zoom   popup-image"><i
+                                        <img id="img4" src=" "  alt="">
+                                        <a href="images/TRABAJOS/Detalles/07-CHUMIL/CHUMIL-01.jpg" class=""><i
                                                 class="fal fa-search"></i></a>
                                     </div>
                                 </div>
@@ -106,8 +112,8 @@
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
                                     <div class="anim-fw">
-                                        <img src="images/folio/1.jpg" alt="">
-                                        <a href="images/folio/1.jpg" class="box-media-zoom   popup-image"><i
+                                        <img id="img5" src=" "  alt="">
+                                        <a href="images/TRABAJOS/Detalles/07-CHUMIL/CHUMIL-01.jpg" class=""><i
                                                 class="fal fa-search"></i></a>
                                     </div>
                                 </div>
@@ -115,17 +121,109 @@
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide hov_zoom">
                                     <div class="anim-fw">
-                                        <img src="images/folio/2.jpg" alt="">
-                                        <a href="images/folio/2.jpg" class="box-media-zoom   popup-image"><i
+                                        <img id="img6" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
                                                 class="fal fa-search"></i></a>
                                     </div>
                                 </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img7" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img8" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img9" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img10" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img11" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img12" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img13" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img14" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img15" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img16" src=" "  alt="">
+                                        <a href="images/folio/2.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img17" src=" "  alt="">
+                                        <a href="images/folio/1.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img18" src=" "  alt="">
+                                        <a href="images/folio/1.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide hov_zoom">
+                                    <div class="anim-fw">
+                                        <img id="img19" src=" "  alt="">
+                                        <a href="images/folio/1.jpg" class=""><i
+                                                class="fal fa-search"></i></a>
+                                    </div>
+                                </div>
+                                
                                 <!-- swiper-slide end-->
                                 <!-- swiper-slide-->
                                 <div class="swiper-slide  folio-slider-link">
                                     <a class="folio-slider-link_item ajax" href="index.html">
                                         <div class="grid-icon"></div>
-                                        <span>Back to Works</span>
+                                        <span>Regresar a trabajos</span>
                                     </a>
                                 </div>
                                 <!-- swiper-slide end-->
@@ -144,7 +242,7 @@
                     </div>
                     <!-- pr-det_btn-->
                     <div class="pr-det_btn">
-                        <span class="pr-det_btn_title">View Details</span>
+                        <span class="pr-det_btn_title">Ver Detalles</span>
                         <div class="pib_icon">
                             <span class="sb-button_point fl-wrap"></span>
                             <span class="sb-button_point fl-wrap"></span>
@@ -157,34 +255,64 @@
                 <!-- project details  -->
                 <div  class="pr-det_wrapper">
                     <div class="pr-det_container">
-                        <div class="fl-wrap pr-det_box ">
+                        <div class="fl-wrap pr-det_box">
                             <h2 id="title"></h2>
                             <div id="description"></div>
                             <div class="caption-wrap fl-wrap">
                                 <ul>
                                     <li>
-                                        <span>Ubicacion</span>
-                                        <a id="location" href="#"></a>
+                                        <span>Arquitecto: </span>
+                                        <h1></h1>
+                                        <a id="arquitecto" href="#"></a>
                                     </li>
                                     <li>
-                                        <span>Categoria</span>
-                                        <a id="category" href="#"></a>
+                                        <span>Colaboradores:</span>
+                                        <h1></h1>
+                                        <a id="colaboradores" href="#"></a>
                                     </li>
                                     <li>
-                                        <span>Modelo</span>
-                                        <a id="model" href="#"></a>
+                                        <span>Lugar: </span>
+                                        <h1></h1>
+                                        <a id="lugar" href="#"></a>
                                     </li>
                                     <li>
-                                        <span>Camara</span>
-                                        <a id="camera" href="#"></a>
+                                        <span>Fecha: </span>
+                                        <h1></h1>
+                                        <a id="fecha" href="#"></a>
                                     </li>
-                                </ul>
+                                    <li>
+                                        <span>Superficie proyecto: </span>
+                                        <h1></h1>
+                                        <a id="superficie" href="#"></a>
+                                    </li>
+                                    <li>
+                                        <span>Render/Dibujo: </span>
+                                        <h1></h1>
+                                        <a id="render" href="#"></a>
+                                    </li>
+                                </ul>                    
                             </div>
-                            <div class="cl-det-btn cpr_det">Close Details <i class="fal fa-long-arrow-left"></i></div>
+                            <div class="cl-det-btn cpr_det">Cerrar Detalles <i class="fal fa-long-arrow-left"></i></div>
                         </div>
                     </div>
+                    
+                   
+                    
                     <div class="pr-det_overlay cpr_det"></div>
-                    <div class="pr-det_title cpr_det">Details</div>
+                    <div class="pr-det_title cpr_det">Detalles</div>
+         
+                    <div class="box_axono">
+                    <div class="image-container3">
+                        <img id="axonometrico1" src="" alt="">
+                    </div>
+                    <div class="image-container3">
+                        <img id="axonometrico2" src="" alt="">
+                    </div>
+                </div>
+                    
+                   
+
+                
                 </div>
                 <!-- project details end -->
                 <div class="mob-footer_gal mfg-2 fl-wrap">
@@ -212,11 +340,11 @@
             </div>
         </div>
         <!-- social_links end -->
-        <!-- policy-box -->
-        <div class="policy-box">
-            <span>&#169; Endor 2021 - All rights reserved. </span>
-        </div>
-        <!-- policy-box end -->
+                 <!--  policy-box -->
+                 <div class="policy-box">
+                    <span>&#169; 33G 2023  -  All rights reserved. </span>
+                </div>
+                <!--  policy-box end-->
         <!-- cursor-->
         <div class="element">
             <div class="element-item"></div>
@@ -224,11 +352,10 @@
         <!-- cursor end-->
     </div>
     <!-- Main end -->
-    <!--=============== scripts  ===============-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/plugins.js"></script>
-    <script src="js/scripts.js"></script>
-    <script src="js/informacion_portafolio.js"></script>
+
+
+ 
+    
 </body>
 
 

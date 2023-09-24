@@ -2522,20 +2522,19 @@ blockquote p {
 	
 	/*Casa Olimtepec*/
 	.gallery-item:nth-child(15) {
-		width: 66%;
-		aspect-ratio: 1740/593; /* Proporción de 1740x530 */
+		width: 68%;
+		aspect-ratio: 1758/578; /* Proporción de 1740x530 */
 		overflow: hidden;
 	}
 	.gallery-item:nth-child(15) img {
-		width: 150%;
-		height: 150%; /* Altura fija del 10% del contenedor */
+		width: 68%;
 		transform: translateY(-10%); /* Centrar verticalmente la imagen */
 	}
 	
 	/*Cambiar el tamaño de hov_box en el child 15*/
 	.gallery-item:nth-child(15) .hov_box {
-		width: 221.750px;
-		height: 74.297px;
+		width: 475.75px;
+		height: 212.297px;
 	}
 	
 	
@@ -2561,16 +2560,16 @@ blockquote p {
 		float: left;
 	}
 	
-	.gallery-items {
-		width: 100%;
-		float: left;
-		display: flex;
-		
-	}
-	.gallery-item {
-		width: 33%;
-		
-	}
+	
+.gallery-items {
+    width: 100%;
+    padding:74px 0;
+	float: left;
+}
+.gallery-item {
+    width: 33.3%;
+    padding:4px;
+}
 	.hero-showcase , .fw-carousel .swiper-container  {
 		position:relative;
 		height: auto;
@@ -2746,7 +2745,7 @@ blockquote p {
 	}
 	.pr-det_box {
 		padding-top: 50px;
-		opacity: 10;
+		opacity: 1;
 		left: 0;
 	}
 	.fsc-holder {
@@ -2990,16 +2989,16 @@ blockquote p {
 		float: left;
 	}
 	
-	.gallery-items {
-		width: 100%;
-		float: left;
-		display: flex;
-		
-	}
-	.gallery-item {
-		width: 33%;
-		
-	}
+	
+.gallery-items {
+    width: 100%;
+    padding:74px 0;
+	float: left;
+}
+.gallery-item {
+    width: 33.3%;
+    padding:4px;
+}
 	.hero-showcase , .fw-carousel .swiper-container  {
 		position:relative;
 		height: auto;

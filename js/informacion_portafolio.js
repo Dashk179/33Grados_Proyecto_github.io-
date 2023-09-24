@@ -1,5 +1,5 @@
-window.onload = function() {
-   const productDetailsContainer = document.querySelector('.pr-det_container');
+document.addEventListener('DOMContentLoaded', function () {
+     const productDetailsContainer = document.querySelector('.pr-det_container');
    const index = new URLSearchParams(window.location.search).get('index');
 
    fetch('js/informacion.json')
@@ -121,6 +121,9 @@ window.onload = function() {
   
               const axonometrico2Element = document.querySelector('#axonometrico2');
               axonometrico2Element.src = data[index].axonometrico2;
+              var script = document.createElement('script');
+              script.src = 'js/scripts.js';
+              document.head.appendChild(script);
   
       })
       .catch(error => {
@@ -132,4 +135,8 @@ window.onload = function() {
    closeButton.addEventListener('click', function() {
       productDetailsContainer.style.display = 'block';
    });
-}
+
+
+
+
+});

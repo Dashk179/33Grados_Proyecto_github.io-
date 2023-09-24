@@ -168,18 +168,18 @@
 ,
 {
   
-   "title": "Mausoleo",
+   "title": "CENTRO ECOTURISTICO PIEDRA RAJADA",
    "description": [
-   "",
-   "",      
-   ""  
+   "Poseedor de un paisaje extraordinario, ubicado al oriente de Estado de Morelos en la comunidad de Chalcatzingo, se construyó el centro ecoturístico “Piedra Rajada”.",
+   "Este espacio obedece a la necesidad de generar una oportunidad de desarrollo para varios pueblos indígenas de la región, representadas por las mujeres de la Organización de Mujeres Orgullosamente Indígenas A C. (OMOI A.C.) Es un desarrollo que ofrece hospedaje en cabañas de adobe, artesanías, área de acampar, servicio de restaurante y albercas así como el acceso a su icónico cuexcomate que, para fin del proyecto, se adaptó como un sencillo mirador que observa a las montañas y a la zona arqueológica. El proyecto se realiza en 5 etapas donde se enaltecen los valores de la arquitectura vernácula al retomar el lenguaje formal de las construcciones del entorno y en las cuales se observan techos inclinados con teja plana, muros de adobe, pisos de barro y la utilización de la madera. El resultado ofrece una integración de la geometría arquitectónica con el exquisito paisaje que muestra como fondo al cerro de Chalcatzingo y la montaña del perrito.",      
+   "Piedra Rajada se ha sumado a la zona arqueológica de Chalcatzingo como atracción turística cultural local y ha inyectado nueva vitalidad al desarrollo del pueblo."  
  ],
-   "arquitecto": "",
-   "colaboradores": "",
-   "lugar": [""],
-   "fecha": "",
-   "superficie": "",
-   "render": ""
+   "arquitecto": "Lennin Vick",
+   "colaboradores": "—-",
+   "lugar": ["Chalcatzingo, Jantetelco, Mor."],
+   "fecha": "2009-2014",
+   "superficie": "—- — m2",
+   "render": "Arq. Lennin Vick"
 },
 {
   
@@ -274,6 +274,40 @@
       "fecha": "",
       "superficie": "",
       "render": ""
+   }
+
+   ,
+   {
+   
+      "title": "RESTAURANTE CASA BLANCA",
+      "description": [
+      "El proyecto se emplaza en la comunidad de Quebrantadero, al sur-oriente del estado de Morelos. Ofrece un bar que da servicio tanto al exterior como interior, área de restaurante, cocina, baños, un jardín como remate visual y un alojo para 228 comensales. ",
+      "El restaurante se adapta a una construcción existente y crece de manera robusta y ordenada para constituir un edificio con características únicas que se hacen presentes al armonizar materiales, visuales y espacios. ",
+       "El usuario es recibido por un cubo de doble altura que además enlaza al bar externo dotado de un jardin interior. A su ingreso la cocina se muestra cómo el espacio jerárquico que por su ubicación, posee una visión plena de cada rincón del restaurante. Mediante una escalera helicoidal y flanqueada por un barandal de placa de acero se accesa a la planta alta, donde se alojan 72 comensales",
+       "El material a base de acero en tonos oscuros que se eligió como método de construcción, contrasta de manera armónica con el jardin contiguo. Dicho jardin otorga una visual refrescante que conecta con el comensal para coadyuvar en su confort mientras degusta sus alimentos. "  
+   ],
+      "arquitecto": "Lennin Vick",
+      "colaboradores": "Arq. Jair Bollera",
+      "lugar": ["Quebrantadero, Axochiapan, Mor."],
+      "fecha": "2018",
+      "superficie": "—- — m2",
+      "render": "Arq. Jair Bollera, Arq. Luis Zúñiga / Arq. Alexis F. Pacheco"
+   },
+   {
+   
+      "title": "RESTAURANTE CASA BLANCA",
+      "description": [
+      "El proyecto se emplaza en la comunidad de Quebrantadero, al sur-oriente del estado de Morelos. Ofrece un bar que da servicio tanto al exterior como interior, área de restaurante, cocina, baños, un jardín como remate visual y un alojo para 228 comensales. ",
+      "El restaurante se adapta a una construcción existente y crece de manera robusta y ordenada para constituir un edificio con características únicas que se hacen presentes al armonizar materiales, visuales y espacios. ",
+       "El usuario es recibido por un cubo de doble altura que además enlaza al bar externo dotado de un jardin interior. A su ingreso la cocina se muestra cómo el espacio jerárquico que por su ubicación, posee una visión plena de cada rincón del restaurante. Mediante una escalera helicoidal y flanqueada por un barandal de placa de acero se accesa a la planta alta, donde se alojan 72 comensales",
+       "El material a base de acero en tonos oscuros que se eligió como método de construcción, contrasta de manera armónica con el jardin contiguo. Dicho jardin otorga una visual refrescante que conecta con el comensal para coadyuvar en su confort mientras degusta sus alimentos. "  
+   ],
+      "arquitecto": "Lennin Vick",
+      "colaboradores": "Arq. Jair Bollera",
+      "lugar": ["Quebrantadero, Axochiapan, Mor."],
+      "fecha": "2018",
+      "superficie": "—- — m2",
+      "render": "Arq. Jair Bollera, Arq. Luis Zúñiga / Arq. Alexis F. Pacheco"
    }
    
 ]
