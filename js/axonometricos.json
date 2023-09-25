@@ -1,6 +1,7 @@
 [
     {
-
+        "axonometrico1" : "images/TRABAJOS/Detalles/01-CASA JACARANDAS/AXONOMETRICOS/FACHADA_JACARANDAS.png",
+        "axonometrico2" : "images/TRABAJOS/Detalles/01-CASA JACARANDAS/AXONOMETRICOS/AXONOMETRICO_JACARANDAS.png"
     },
 
     {
@@ -51,27 +52,32 @@
     ,
 
     {
+        "axonometrico1" : "images/TRABAJOS/Detalles/12-CENTRO_ECOTURISTICO/AXONOMETRICOS/AXONOMETRICO_01.png"
     }
     
     ,
 
     {
+        "axonometrico1" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/AXONOMETRICOS/AXONOMETRICO_01.png"
     }
     ,
 
     {
+        "axonometrico1" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/AXONOMETRICOS/AXONOMETRICO_01.png"
     }
     ,
 
     {
+        "axonometrico1" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/AXONOMETRICOS/AXONOMETRICO_01.png"
     } ,
 
     {
+        "axonometrico1" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/AXONOMETRICOS/AXONOMETRICO_01.png"
     }
     ,
 
     {
-        "axonometrico1" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/AXONOMETRICOS/AXONOMETRICO_01.png",
+        
         "axonometrico2" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/AXONOMETRICOS/AXONOMETRICO_02.png"
 
     }

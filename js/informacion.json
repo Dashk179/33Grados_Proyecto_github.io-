@@ -1,16 +1,16 @@
 [{
-   "title": "Casa Jacarandas",
+   "title": "CASA JACARANDAS",
    "description": [
-   "",
-   "",      
-   ""  
- ],
-   "location": "",
-   "category": "",
-   "model": [""],
-   "fecha": "",
-   "superficie": "",
-   "render": ""
+      "Serena e introspectiva, la casa se ofrece al exterior impulsando las áreas de servicios hacia el paramento que asoma a la calle. La edificación acusa una esencia rústica al evitar al máximo cualquier expresión de pintura en muros y acabados cerámicos en pisos y baños, pues la totalidad de aplanados son pulidos al natural. Por lo tanto el aplanado interior es pulido con estuco blanco mientras que al exterior se observa aplanado pulido con pigmentos para concreto.",
+      "Atípica en su distribución, se accesa por la cocina que colinda con el estudio y mediante un pasillo se llega a la sala comedor. Dicho espacio se embellece por la presencia de un muro fabricado con piedra caliza típica de la región que conecta mediante un ventanal con un jardin que cumple con la esencia visual y suaviza el impacto del clima caluroso característico de la zona.",
+      "Al fondo del predio se encuentran las recamaras que gozan de un patio trasero para inyectar ventilación cruzada y dotar de iluminación a los closets."
+   ],
+   "arquitecto": "Lennin Vick",
+   "colaboradores": "Arq. Agustin M. Rafols",
+   "lugar": ["H. H. Cuautla, Mor."],
+   "fecha": "2018",
+   "superficie": "168.00 m2",
+   "render": "Arq. Lennin Vick / Arq. Agustin M. Rafols"
 },
 {
   
