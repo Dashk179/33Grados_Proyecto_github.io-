@@ -160,7 +160,14 @@
     },
 
     {
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-10.jpg"
+       "img1" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/CASA_BLANCA_01.jpg",
+       "img2" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/CASA_BLANCA_02.jpg",
+       "img3" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/CASA_BLANCA_03.jpg",
+       "img4" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/CASA_BLANCA_04.jpg",
+       "img5" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/CASA_BLANCA_05.jpg",
+       "img6" : "images/TRABAJOS/Detalles/17-RESTAURANTE-CASA-BLANCA/CASA_BLANCA_06.jpg"
         
     }
+    
+
 ]
