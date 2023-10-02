@@ -121,9 +121,13 @@ document.addEventListener('DOMContentLoaded', function () {
   
               const axonometrico2Element = document.querySelector('#axonometrico2');
               axonometrico2Element.src = data[index].axonometrico2;
-              var script = document.createElement('script');
-              script.src = 'js/scripts.js';
-              document.head.appendChild(script);
+         
+               // Después de cargar los datos, cargar el script 'js/scripts.js' con un retraso de 10 segundos
+            setTimeout(function () {
+               var script = document.createElement('script');
+               script.src = 'js/scripts.js';
+               document.head.appendChild(script);
+           }, 2500); // 10000 milisegundos (10 segundos)
   
       })
       .catch(error => {
