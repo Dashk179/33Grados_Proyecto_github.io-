@@ -2325,27 +2325,27 @@ blockquote p {
 }
 
 /* Estilos para el nuevo div que contiene la imagen */
-
-.box_axono{
-	position: relative;
-		float: left;
-		width: 100%;
-		overflow:inherit;
-		display: block;
+.box_axono {
+    position: relative;
+    width: 100%;
 }
 
-.image-container3 {
-    margin: 200px auto; /* Ajusta los márgenes según lo desees */
-    max-width: 500px; /* Ajusta el ancho máximo de la imagen según lo desees */
-    text-align: right; /* Centrar horizontalmente la imagen */
-	
+.image-container1 img {
+	margin: 100px auto; 
+    max-width: 20%; /* La imagen se ajustará al 100% del ancho del contenedor */
+    height: auto; /* La imagen se ajustará de manera proporcional al ancho */
+    display: block; /* Para eliminar cualquier espacio adicional debajo de la imagen */
+    text-align: center; /* Puedes centrar horizontalmente el contenido del contenedor si es necesario */
 }
 
-.image-container3 img {
-    max-width: 100%;
-    height: auto; /* La imagen se ajustará de manera proporcional al ancho máximo */
-	
+.image-container2 img {
+    max-width: 25%; /* La imagen se ajustará al 100% del ancho del contenedor */
+    height: auto; /* La imagen se ajustará de manera proporcional al ancho */
+    display: block; /* Para eliminar cualquier espacio adicional debajo de la imagen */
+    margin: 0 auto; /* Para centrar horizontalmente la imagen */
+    text-align: center; /* Puedes centrar horizontalmente el contenido del contenedor si es necesario */
 }
+
 
 
 /* ------responsive------------------------------------------------------------ */

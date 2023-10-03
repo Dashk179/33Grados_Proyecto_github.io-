@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', function () {
                var script = document.createElement('script');
                script.src = 'js/scripts.js';
                document.head.appendChild(script);
-           }, 2500); // 10000 milisegundos (10 segundos)
+           }, 2500); // 2500 milisegundos (2.5 segundos)
   
       })
       .catch(error => {
