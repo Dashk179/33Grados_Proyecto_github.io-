@@ -100,19 +100,19 @@
 
     {
         
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-08.jpg"
+        "img1" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_01.jpg"
         
     },
 
     {
         
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-09.jpg"
+        "img1" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_01.jpg"
         
     },
 
     {
         
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-10.jpg"
+        "img1" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_01.jpg"
         
     },
 
@@ -152,12 +152,20 @@
     },
 
     {
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-10.jpg"
+        "img1" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_01.jpg",
+        "img2" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_02.jpg",
+        "img3" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_03.jpg",
+        "img4" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_04.jpg",
+        "img5" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_05.jpg",
+        "img6" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_06.jpg",
+        "img7" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_07.jpg",
+        "img8" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_08.jpg",
+        "img9" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_09.jpg",
+        "img10" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_10.jpg"
     },
 
     {
-      
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-10.jpg"
+        "img1" : "images/TRABAJOS/Detalles/13-BISSU/BISSU_01.jpg"
     },
 
     {
