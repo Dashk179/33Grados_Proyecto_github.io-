@@ -92,6 +92,9 @@ document.addEventListener('DOMContentLoaded', function () {
               const img14Element = document.querySelector('#img14');
               img14Element.src = data[index].img14;
 
+              const img15Element = document.querySelector('#img15');
+              img15Element.src = data[index].img15;
+
               const img16Element = document.querySelector('#img16');
               img16Element.src = data[index].img16;
 
