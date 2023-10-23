@@ -123,11 +123,25 @@ document.addEventListener('DOMContentLoaded', function () {
           // Asegurémonos de que el índice sea válido
         
               const axonometrico1Element = document.querySelector('#axonometrico1');
-              axonometrico1Element.src = data[index].axonometrico1;
+             
+      
   
               const axonometrico2Element = document.querySelector('#axonometrico2');
-              axonometrico2Element.src = data[index].axonometrico2;
+            
          
+
+              if (data[index].axonometrico1) {
+               axonometrico1Element.src = data[index].axonometrico1;
+           } else {
+               axonometrico1Element.style.display = 'none'; // Oculta el elemento si no hay datos
+           }
+           
+           if (data[index].axonometrico2) {
+               axonometrico2Element.src = data[index].axonometrico2;
+           } else {
+               axonometrico2Element.style.display = 'none'; // Oculta el elemento si no hay datos
+           }
+
                // Después de cargar los datos, cargar el script 'js/scripts.js' con un retraso de 10 segundos
             setTimeout(function () {
                var script = document.createElement('script');

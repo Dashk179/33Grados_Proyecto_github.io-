@@ -14,18 +14,19 @@
 },
 {
   
-   "title": "Alameda",
+   "title": "PLAZA Y FUERTE DE GALEANA",
    "description": [
-   "",
-   "",      
-   ""  
+   "Es una de las 3 plazas más importantes de la ciudad de Cuautla que se ubica al norte de la Zona de Monumentos Historicos. Coloquialmente llamada Alameda, dicho espacio esta inspirado en Hermenegildo Galeana quien luchó en éste plaza junto a Morelos hace más de 200 años en el sitio de Cuautla de 1812.",
+   "El diseño recupera la traza original de la primera Alameda, influenciada en los parques y jardines afrancesados construidos durante la administración porfirista a finales del siglo XIX. Ëstos se caracterizan por pasillos y jardineras que te dirigen a un elemento central, que en éste proyecto es el monumento a Galeana.",      
+   "Los módulos de diseño obtenidos mediante numerología, se centran en dicho personaje histórico en el que reflejamos sus fechas importantes como lo son vida, muerte y años vividos así como su aporte a la lucha por un México independiente." ,
+   "La Plaza muestra la recuperación de flora endémica y su respeto a la inclusión, al emplazarse a un mismo nivel. Uno de los objetivos fue mostrar una espacio lúdico en el área histórica para colaborar en la salvaguarda de nuestro patrimonio cultural edificado. " 
  ],
-   "location": "",
-   "category": "",
-   "model": [""],
-   "fecha": "",
-   "superficie": "",
-   "render": ""
+   "arquitecto": "Lennin Vick",
+   "colaboradores": "Arq. Francisco Xihuicoatl",
+   "lugar": ["H. H. Cuautla, Mor"],
+   "fecha": "2015",
+   "superficie": "3,014.00 m2",
+   "render": "Arq: Lennin Vick"
 },
 {
    "title": "RESTAURACIÓN BERZY LE SEC",
