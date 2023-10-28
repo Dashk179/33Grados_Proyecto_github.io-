@@ -78,16 +78,18 @@
   
    "title": "Hotel 3S",
    "description": [
-   "",
-   "",      
-   ""  
+   "El proyecto Hotel 3S supone el reto de amalgamar lo antiguo con lo moderno. Situado en la Zona de Monumentos Historicos de Cuautla, la construcción cuenta con dos crujías que actualmente funcionan como local comercial y un acceso al fondo del terreno en el cual se encuentra una edificación en estado de ruinas. Las decisiones de diseño son claras: Restauración, ampliación e innovación. ",
+   "El primero lo logramos en las crujías que aun permanecen y que se restauran considerando el espíritu de las cartas del restauro vigentes, donde se consolidan los muros y losas edificados a inicios del siglo XX y se conservan los aplanados y pintura a la cal a base de pigmentos naturales. Éste primer concepto se utilizara para la cafetería y area de registro para el hotel. ",      
+   "zs<<zwsazxqaLa ampliación es una planta alta justo arriba de las crujías antes mencionadas que alojaran   dos suites en las que se abstrae el lenguaje formal de la losa antigua denominada `bóveda catalana´ mediante el uso de la actual losa prefabricada de vigueta y bovedilla, donde esta ultima es curva. Los espacios logrados piden prestados los tonos y el tipo de pintura utilizados en la restauración. "  ,
+   "Y por último, la innovación se presenta al realizar una nueva edificación en la parte posterior con contenedores marítimos seccionados que serán habitaciones individuales desarrolladas en dos plantas, que por su disposición generan interesantes zonas vestibulares.",
+   "Aquí en el Hotel 3S se teje el pasado y presente adecuando el diálogo entre materiales donde se presentan gestos clave de integración entre patrimonio e innovación. "
  ],
- "location": "",
- "category": "",
- "model": [""],
- "fecha": "",
- "superficie": "",
- "render": ""
+ "arquitecto": "Lennin Vick",
+   "colaboradores": "Arq. Alexis F. Pacheco",
+   "lugar": ["H. H. Cuautla, Mor."],
+   "fecha": "2023",
+   "superficie": "276.13 m2",
+   "render": "Arq. Alexis F. Pacheco, Arq. Alfredo Zúñiga / Arq. Elena Apanco"
 },
 {
   
