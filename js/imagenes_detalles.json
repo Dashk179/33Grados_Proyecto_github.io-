@@ -54,7 +54,7 @@
 
     {
         
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-04.jpg"
+        "img1" : "images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-04.jpg"
         
     },
     {
@@ -70,14 +70,23 @@
     },
 
     {
-        
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-05.jpg"
+        "img1" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-01.jpg",
+        "img2" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-02.jpg",
+        "img3" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-03.jpg",
+        "img4" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-04.jpg",
+        "img5" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-05.jpg",
+        "img6" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-06.jpg",
+        "img7" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-07.jpg",
+        "img8" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-08.jpg",
+        "img9" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-09.jpg",
+        "img10" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-10.jpg",
+        "img11" : "images/TRABAJOS/Detalles/05-RECICLADORA/RECICLADORA-11.jpg"
         
     },
 
     {
         
-        "img1" : "/images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-06.jpg"
+        "img1" : "images/TRABAJOS/Detalles/03-MOA/MAO-ESQUINA-06.jpg"
         
     },
 
