@@ -126,6 +126,12 @@ blockquote p {
 	width: 100%;
 	position: relative;
 }
+
+.fl-wrap_lenny {
+	float: left;
+	width: 100%;
+	position: relative;
+}
 .full-height {
 	height:100%;
 }
@@ -470,7 +476,7 @@ blockquote p {
 	position: relative;
 	top: -60px;
 }
-.hero-section_title h2:before {
+/* .hero-section_title h2:before {
 	content: '';
 	position: absolute;
 	left: 50%;
@@ -479,9 +485,13 @@ blockquote p {
 	height: 2px;
 	background: #fff;
 	margin-left: -25px;
-}
+} */
 .section {
 	margin: 90px 0;
+}
+
+.section_about {
+	margin: 135px  0;
 }
 .section-title {
 	margin: 0 0 90px 0;
@@ -502,8 +512,27 @@ blockquote p {
 	font-size: 22px;
 	margin-bottom: 30px;
 }
+
+.row_lennin{
+	margin-left: 485px;
+    margin-right: -15px;
+}
+
+
+.column-wrapper_text_about h4 {
+	text-align: left;
+	color: #fff;
+	font-size: 15px;
+	margin-bottom: 30px;
+}
 .image-collage-wrap {
 	padding: 0 0 0 40px
+}
+.bg-section {
+	width: 100%;
+	height: 110vh;
+	background-color: #000; /* Cambia #000 por el código de color deseado */
+	margin-top: 100px; /* Ajusta el valor según tus necesidades */
 }
 .image-collage-wrap img {
 	width: 100%;
@@ -513,6 +542,11 @@ blockquote p {
 }
 .inline-facts-holder {
 	text-align: left;
+	margin-top: 20px;
+} 
+
+.inline-facts-holder_about {
+	text-align: right;
 	margin-top: 20px;
 } 
 .inline-facts {
@@ -551,6 +585,8 @@ blockquote p {
 	padding-top: 20px;
 	border-top: 1px solid rgba(255,255,255,0.1)
 }
+
+
 .serv-list li {
 	float: left;
     text-align: left;
@@ -2312,20 +2348,41 @@ blockquote p {
 .share-icon-flickr:before  {
     content: "\f16e";
 }
-.share-icon-facebook:before  {
-    content: "\f39e";
+.share-icon-facebook:before {
+    content: "";
+    display: inline-block;
+    width: 20px; /* ajusta el ancho según tus necesidades */
+    height: 20px; /* ajusta la altura según tus necesidades */
+    background-image: url('/images/redes_sociales/Logo_Facebook_GRIS.png'); /* especifica la ruta de tu imagen */
+    background-size: cover; /* ajusta según tus preferencias, por ejemplo, puedes usar 'contain' */
 }
+
 .share-icon-twitter:before {
-    content: "\f099";
+	content: "";
+    display: inline-block;
+    width: 20px; /* ajusta el ancho según tus necesidades */
+    height: 20px; /* ajusta la altura según tus necesidades */
+    background-image: url('/images/redes_sociales/Logo_Linkedin_GRIS.png'); /* especifica la ruta de tu imagen */
+    background-size: cover; /* ajusta según tus preferencias, por ejemplo, puedes usar 'contain' */
 }
 .share-icon-tumblr:before {
-   content: "\f173";
+	content: "";
+    display: inline-block;
+    width: 20px; /* ajusta el ancho según tus necesidades */
+    height: 20px; /* ajusta la altura según tus necesidades */
+    background-image: url('/images/redes_sociales/Logo_instagram_GRIS.png'); /* especifica la ruta de tu imagen */
+    background-size: cover; /* ajusta según tus preferencias, por ejemplo, puedes usar 'contain' */
 }
 .share-icon-linkedin:before {
      content: "\f0e1";
 }
 .share-icon-pinterest:before {
-    content: "\f231";
+    content: "";
+    display: inline-block;
+    width: 20px; /* ajusta el ancho según tus necesidades */
+    height: 20px; /* ajusta la altura según tus necesidades */
+    background-image: url('/images/redes_sociales/Logo_Pinterest_GRIS.png'); /* especifica la ruta de tu imagen */
+    background-size: cover; /* ajusta según tus preferencias, por ejemplo, puedes usar 'contain' */
 }
 .share-icon-stumbleupon:before {
     content: "\f1a4";
@@ -2834,13 +2891,13 @@ blockquote p {
 	.gallery-item:nth-child(2) {
 		width: 66%;
 		float: left;
-		aspect-ratio: 1740/593; /* Proporción de 1740x530 */
+		padding:  4px 4px  0;
 	}
 	
 	.gallery-item:nth-child(2) img {
-		width: 110%;
+		width: 105%;
 		height: 100%;
-		object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
+	
 	}
 	.gallery-item:nth-child(1) {
 		width: 33%;
@@ -2882,6 +2939,9 @@ blockquote p {
 		float: left;
 	}
 	
+	.gallery-item:nth-child(7) img {
+		height: 223px;
+	}
 	
 	
 	/* Imagen 9 */
@@ -2889,6 +2949,10 @@ blockquote p {
 		width: 33%;
 		aspect-ratio: 900/1200; /* Proporción de 1740x530 */
 		float: left;
+	}
+	
+	.gallery-item:nth-child(8) img {
+		height: 223px;
 	}
 	
 	
@@ -2938,6 +3002,16 @@ blockquote p {
 		
 	}
 	
+	.gallery-item:nth-child(12) img {
+		height: 454px;
+	
+	}
+	.gallery-item:nth-child(12) .hov_box {
+		width: 331.75px;
+		height: 453.297px;
+	}
+	
+	
 	/* Bisuu */
 	.gallery-item:nth-child(13) {
 		width: 33%;
@@ -2956,10 +3030,14 @@ blockquote p {
 	/* Emiliano Zapata */
 	.gallery-item:nth-child(14) {
 		width: 100%;
-		/* padding: 7px 3px; */
+	  padding: 4px 3px; 
 		float: left;
+		
 	}
-	
+	.gallery-item:nth-child(14) .hov_box {
+		width: 498.75px;
+		height: 110.297px;
+	}
 	/*Casa Olimtepec*/
 	.gallery-item:nth-child(15) {
 		width: 66%;
@@ -2967,15 +3045,16 @@ blockquote p {
 		overflow: hidden;
 	}
 	.gallery-item:nth-child(15) img {
-		width: 150%;
-		height: 150%; /* Altura fija del 10% del contenedor */
+		width: 100%;
+		height: 126%; /* Altura fija del 10% del contenedor */
 		transform: translateY(-10%); /* Centrar verticalmente la imagen */
 	}
 	
 	/*Cambiar el tamaño de hov_box en el child 15*/
 	.gallery-item:nth-child(15) .hov_box {
-		width: 221.750px;
-		height: 74.297px;
+		width: 332.75px;
+		height: 110.297px;
+		right: 1px;
 	}
 	
 	
@@ -3001,16 +3080,23 @@ blockquote p {
 		float: left;
 	}
 	
-	
-.gallery-items {
-    width: 100%;
-    padding:74px 0;
-	float: left;
-}
-.gallery-item {
-    width: 33.3%;
-    padding:4px;
-}
+	.gallery-items {
+		width: 100%;
+		float: left;
+		display: flex;
+		left: 3px;
+		top: 0px;
+		
+	}
+	.gallery-item_dos{
+		position: absolute;
+		left: 173px;
+		top: 58px;
+	}
+	.gallery-item {
+		width: 33%;
+		
+	}
 	.hero-showcase , .fw-carousel .swiper-container  {
 		position:relative;
 		height: auto;
@@ -3263,13 +3349,13 @@ blockquote p {
 .gallery-item:nth-child(2) {
     width: 66%;
 	float: left;
-	aspect-ratio: 1740/593; /* Proporción de 1740x530 */
+	padding:  4px 4px  0;
 }
 
 .gallery-item:nth-child(2) img {
-	width: 110%;
+	width: 105%;
     height: 100%;
-    object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
+
 }
 .gallery-item:nth-child(1) {
     width: 33%;
@@ -3311,6 +3397,9 @@ blockquote p {
 	float: left;
 }
 
+.gallery-item:nth-child(7) img {
+    height: 223px;
+}
 
 
 /* Imagen 9 */
@@ -3318,6 +3407,10 @@ blockquote p {
 	width: 33%;
 	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
 	float: left;
+}
+
+.gallery-item:nth-child(8) img {
+    height: 223px;
 }
 
 
@@ -3367,6 +3460,16 @@ blockquote p {
 	
 }
 
+.gallery-item:nth-child(12) img {
+	height: 454px;
+
+}
+.gallery-item:nth-child(12) .hov_box {
+	width: 331.75px;
+    height: 453.297px;
+}
+
+
 /* Bisuu */
 .gallery-item:nth-child(13) {
     width: 33%;
@@ -3385,10 +3488,14 @@ blockquote p {
 /* Emiliano Zapata */
 .gallery-item:nth-child(14) {
     width: 100%;
-	/* padding: 7px 3px; */
+  padding: 4px 3px; 
 	float: left;
+	
 }
-
+.gallery-item:nth-child(14) .hov_box {
+    width: 498.75px;
+    height: 110.297px;
+}
 /*Casa Olimtepec*/
 .gallery-item:nth-child(15) {
 	width: 66%;
@@ -3396,15 +3503,16 @@ blockquote p {
     overflow: hidden;
 }
 .gallery-item:nth-child(15) img {
-	width: 150%;
-    height: 150%; /* Altura fija del 10% del contenedor */
+	width: 100%;
+    height: 126%; /* Altura fija del 10% del contenedor */
     transform: translateY(-10%); /* Centrar verticalmente la imagen */
 }
 
 /*Cambiar el tamaño de hov_box en el child 15*/
 .gallery-item:nth-child(15) .hov_box {
-    width: 221.750px;
-    height: 74.297px;
+	width: 332.75px;
+	height: 110.297px;
+    right: 1px;
 }
 
 
@@ -3431,10 +3539,17 @@ blockquote p {
 }
 
 .gallery-items {
-    width: 100%;
-	float: left;
-	display: flex;
+	width: 100%;
+    float: left;
+    display: flex;
+    left: 3px;
+    top: 0px;
 	
+}
+.gallery-item_dos{
+	position: absolute;
+    left: 173px;
+    top: 58px;
 }
 .gallery-item {
 	width: 33%;
