@@ -517,6 +517,16 @@ blockquote p {
     margin-right: -15px;
 }
 
+.hero-section_about_title h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    font-size: 104px;
+    line-height: 90px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    top: -60px;
+}
 
 .column-wrapper_text_about h4 {
 	text-align: left;
@@ -524,6 +534,8 @@ blockquote p {
 	font-size: 15px;
 	margin-bottom: 30px;
 }
+
+
 .image-collage-wrap {
 	padding: 0 0 0 40px
 }
@@ -2414,8 +2426,70 @@ blockquote p {
     text-align: center; /* Puedes centrar horizontalmente el contenido del contenedor si es necesario */
 }
 
+.custom-col {
+	height: 47vh;
+	width: 120%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center; /* Cambiado de 'right' a 'center' */
+	align-items: center;
+}
+
+.custom-img {
+	width: 18%;
+	height: 38vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.hero-section_title_about h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 268px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    top: -60px;
+}
 
 
+.hero-section_title_colab h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 92px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    top: -60px;
+	font-size: 40px; width: 91%; height: 0px;
+}
+.colab2003{
+	font-size: 22px; width: 150%; height: 10px; top: 30px;
+}
+
+.colab2003 h2{
+	font-size: 22px; width: 150%; height: 10px; top: 30px;
+}
+.colabactivo h2{
+	font-size: 22px; width: 148.3%; height: 10px;
+}
+
+.colabactivo_contenido{
+	position: absolute; top:9px; right: 359px;
+}
+.colabactivo_contenido ul{
+	font-size: 12px; width: 150%; height: 127px;  text-align: left;
+}
+
+.colabactivo_contenido_2003{
+	position: absolute; top:96px; right: 278px;
+}
+.colabactivo_contenido_2003 ul{
+	font-size: 12px; width: 150%; height: 127px;  text-align: left;
+}
+/*
 /* ------responsive------------------------------------------------------------ */
 @media only screen and (max-width: 1264px) {
 .hs_init-container {
@@ -3316,6 +3390,85 @@ blockquote p {
 .hb_mob , .nav-button-wrap , .mob-footer_gal , .mob-footer_gal.mfg-2 , .mob-spinner {
 	display: block;
 }
+
+.hero-section_about_title h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 66px;
+    line-height: 64px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    top: 4px;
+}
+
+.hero-section_title_about h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 27px;
+    line-height: 267px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    top: -62px;
+}
+
+.colab2003 {
+    font-size: 26px;
+    width: 97%;
+    height: 6px;
+    top: 30px;
+}
+
+.colabactivo_contenido_2003{
+	position: absolute; top:96px; right: 186px;
+}
+.hero-section_title_colab h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 43px;
+    line-height: 92px;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    top: -72px;
+    height: 83px;
+}
+
+.colabactivo_contenido{
+	position: absolute;
+top: 84px;
+right: 202px;
+}
+.colabactivo h2{
+	font-size: 27px; width: 91%; height: 5px;
+}
+.custom-img {
+    width: 500%;
+    height: 45vh;
+    background-size: cover;
+    background-position: center;
+}
+.custom-col {
+    height: 48vh;
+    width: 18%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.row_lennin {
+    margin-left: 13px;
+    margin-right: -10px;
+}
+
+.inline-facts-holder_about {
+    text-align: right;
+    margin-top: 12px;
+    left: -37px;
+    width: 262px;
+    font-size: 10px;
+} 
 .filter-btn {
     top: 80px;
     right: 0;
@@ -3672,6 +3825,7 @@ blockquote p {
 .hero-section_title h2 {
     font-size: 84px;
 }
+
 .single-post_title {
     margin-bottom: 0;
 }
