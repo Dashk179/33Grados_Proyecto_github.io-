@@ -3404,8 +3404,8 @@ blockquote p {
 .hero-section_title_about h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
-    font-size: 27px;
-    line-height: 267px;
+    font-size: 21px;
+    line-height: 266px;
     color: #fff;
     text-transform: uppercase;
     position: relative;
@@ -3414,8 +3414,8 @@ blockquote p {
 
 .colab2003 {
     font-size: 26px;
-    width: 97%;
-    height: 6px;
+    width: 85%;
+    height: 14px;
     top: 30px;
 }
 
@@ -3439,8 +3439,11 @@ blockquote p {
 top: 84px;
 right: 202px;
 }
-.colabactivo h2{
-	font-size: 27px; width: 91%; height: 5px;
+.colabactivo h2 {
+    font-size: 28px;
+    width: -1%;
+    height: 4px;
+    right: 73px;
 }
 .custom-img {
     width: 500%;
@@ -3463,12 +3466,17 @@ right: 202px;
 }
 
 .inline-facts-holder_about {
-    text-align: right;
+	text-align: right;
     margin-top: 12px;
-    left: -37px;
-    width: 262px;
-    font-size: 10px;
+    left: 0px;
+    width: 282px;
+    font-size: 12px;
 } 
+
+.inline-facts {
+    float: left;
+    width:  35.3%;
+}
 .filter-btn {
     top: 80px;
     right: 0;
