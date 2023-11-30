@@ -3674,14 +3674,14 @@ right: 202px;
 }
 .gallery-item:nth-child(15) img {
 	width: 100%;
-    height: 126%; /* Altura fija del 10% del contenedor */
+    height: 100%; /* Altura fija del 10% del contenedor */
     transform: translateY(-10%); /* Centrar verticalmente la imagen */
 }
 
 /*Cambiar el tamaño de hov_box en el child 15*/
 .gallery-item:nth-child(15) .hov_box {
-	width: 332.75px;
-	height: 110.297px;
+	width: 264.75px;
+    height: 97.297px;
     right: 1px;
 }
 
