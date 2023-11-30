@@ -1120,8 +1120,10 @@ blockquote p {
 	opacity: 1;
 }
 .gallery-filters a.gallery-filter-active:before   {
+
 	width: 24px;
 }
+
 .hov_box  .overlay {
 	transition: all 0.3s linear;
 	opacity: 0.3;
@@ -3000,10 +3002,17 @@ blockquote p {
 		/* padding:3px 0; */
 		float: left;
 	}
+	.gallery-item:nth-child(5) img {
+		height: auto;
+	}
+	
 	/* Hotel 3s */
 	.gallery-item:nth-child(6) {
 		width: 33%;
 		float: left;
+	}
+	.gallery-item:nth-child(6) img {
+		height: auto;
 	}
 	
 	/* Numero 7 */
@@ -3013,19 +3022,18 @@ blockquote p {
 	}
 	
 	.gallery-item:nth-child(7) img {
-		height: 223px;
+		height: auto;
 	}
 	
 	
 	/* Imagen 9 */
 	.gallery-item:nth-child(8)  {
 		width: 33%;
-		aspect-ratio: 900/1200; /* Proporción de 1740x530 */
 		float: left;
 	}
 	
 	.gallery-item:nth-child(8) img {
-		height: 223px;
+		height: auto;
 	}
 	
 	
@@ -3561,36 +3569,30 @@ right: 202px;
 /* Hotel 3s */
 .gallery-item:nth-child(6) {
     width: 33%;
+	
 	float: left;
+	
 }
 
 /* Numero 7 */
 .gallery-item:nth-child(7) {
     width:33%;
 	float: left;
+
+}
+.gallery-item:nth-child(7)img {
+    height: auto;
 }
 
-.gallery-item:nth-child(7) img {
-    height: 179px;
-}
 
 
-/* Imagen 9 */
-.gallery-item:nth-child(8)  {
-	width: 33%;
-	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
-	float: left;
-}
 
-.gallery-item:nth-child(8) img {
-    height: 179px;
-}
 
 
 /* Imagen 9 */
 .gallery-item:nth-child(8) img {
 	width: 100%;
-	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
+	
 	float: left;
 }
 
@@ -3716,10 +3718,10 @@ right: 202px;
 }
 
 .gallery-items {
-	width: 100%;
+	width: 114%;
     float: left;
     display: flex;
-    left: 3px;
+    left: -8px;
     top: 0px;
 	
 }
