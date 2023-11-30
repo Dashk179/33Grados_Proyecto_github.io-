@@ -3688,6 +3688,10 @@ right: 202px;
     right: 1px;
 }
 
+.gallery-item:nth-child(15) .hov_box-title {
+	top: 29%;
+}
+
 
 
 /* Casa Staines */
