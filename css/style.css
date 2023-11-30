@@ -3672,7 +3672,7 @@ right: 202px;
 /*Casa Olimtepec*/
 .gallery-item:nth-child(15) {
 	width: 65%;
-	aspect-ratio: 1740/593; /* Proporción de 1740x530 */
+
     overflow: hidden;
 }
 .gallery-item:nth-child(15) img {
