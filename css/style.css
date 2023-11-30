@@ -3416,7 +3416,7 @@ blockquote p {
 
 .colab2003 {
     font-size: 26px;
-    width: 85%;
+    width: auto;
     height: 14px;
     top: 30px;
 }
@@ -3424,6 +3424,14 @@ blockquote p {
 .colabactivo_contenido_2003{
 	position: absolute; top:96px; right: 186px;
 }
+
+.colabactivo_contenido_2003 ul {
+    font-size: 12px;
+    width: 173%;
+    height: 131px;
+    text-align: left;
+}
+
 .hero-section_title_colab h2 {
     font-family: 'Oswald', sans-serif;
     font-weight: 700;
@@ -3443,7 +3451,7 @@ right: 202px;
 }
 .colabactivo h2 {
 	font-size: 22px;
-    width: 84%;
+    width: auto;
     right: 2px;
  
 }
