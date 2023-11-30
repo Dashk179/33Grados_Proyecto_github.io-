@@ -2364,7 +2364,7 @@ blockquote p {
     display: inline-block;
     width: 20px; /* ajusta el ancho según tus necesidades */
     height: 20px; /* ajusta la altura según tus necesidades */
-    background-image: url('images/redes_sociales/Logo_Facebook_GRIS.png'); /* especifica la ruta de tu imagen */
+    background-image: url('Logo_Facebook_GRIS.png'); /* especifica la ruta de tu imagen */
     background-size: cover; /* ajusta según tus preferencias, por ejemplo, puedes usar 'contain' */
 }
 
@@ -2373,7 +2373,7 @@ blockquote p {
     display: inline-block;
     width: 20px; /* ajusta el ancho según tus necesidades */
     height: 20px; /* ajusta la altura según tus necesidades */
-    background-image: url('/images/TRABAJOS/01._CASA-JACARANDAS.jpg'); /* especifica la ruta de tu imagen */
+    background-image: url('Logo_Linkedin_GRIS.png'); /* especifica la ruta de tu imagen */
     background-size: cover; /* ajusta según tus preferencias, por ejemplo, puedes usar 'contain' */
 }
 .share-icon-tumblr:before {
@@ -2381,7 +2381,7 @@ blockquote p {
     display: inline-block;
     width: 20px; /* ajusta el ancho según tus necesidades */
     height: 20px; /* ajusta la altura según tus necesidades */
-    background-image: url('/images/redes_sociales/Logo_instagram_GRIS.png'); /* especifica la ruta de tu imagen */
+    background-image: url('Logo_instagram_GRIS.png'); /* especifica la ruta de tu imagen */
     background-size: cover; /* ajusta según tus preferencias, por ejemplo, puedes usar 'contain' */
 }
 .share-icon-linkedin:before {
