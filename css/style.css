@@ -3631,7 +3631,7 @@ right: 202px;
 .gallery-item:nth-child(12) {
     width: 66%;
 	float: left;
-	
+	height: 24%;
 	
 }
 
@@ -3642,7 +3642,7 @@ right: 202px;
 }
 .gallery-item:nth-child(12) .hov_box {
 	width: auto;
-    height: 126%;
+    height: 122%;
 }
 
 
