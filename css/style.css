@@ -3642,7 +3642,7 @@ right: 202px;
 }
 .gallery-item:nth-child(12) .hov_box {
 	width: auto;
-    height: auto;
+    height: 126%;
 }
 
 
