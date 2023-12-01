@@ -3746,7 +3746,7 @@ right: 202px;
 }
 
 .hov_box{
-	width: 128px;
+	margin: -3px;
 	
 }
 .hero-showcase , .fw-carousel .swiper-container  {
