@@ -3663,7 +3663,7 @@ right: 202px;
 
 .gallery-item:nth-child(13) .hov_box {
 	width: auto;
-    height: auto;
+    height: 100%;
 }
 /* Emiliano Zapata */
 .gallery-item:nth-child(14) {
