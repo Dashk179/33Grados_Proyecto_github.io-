@@ -3538,6 +3538,9 @@ right: 202px;
     height: 100%;
 
 }
+.gallery-item:nth-child(2) .hov_box {
+	width: 100%;
+}
 .gallery-item:nth-child(1) {
     width: 33%;
 	/* padding:3px 0; */
@@ -3612,7 +3615,9 @@ right: 202px;
 	float: right;
 }
 
-
+.gallery-item:nth-child(10) .hov_box {
+	width: 100%;
+}
 /* Casa Burgos */
 .gallery-item:nth-child(11) {
     width: 33%;
@@ -3737,6 +3742,11 @@ right: 202px;
 }
 .gallery-item {
 	width: 34%;
+	
+}
+
+.hov_box{
+	width: 120px;
 	
 }
 .hero-showcase , .fw-carousel .swiper-container  {
