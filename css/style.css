@@ -3730,7 +3730,7 @@ right: 202px;
 .gallery-items {
 	width: 100%;
     float: center;
-    display: flex;
+    display: flex;	
     left: -8px;
     top: -4px;
 	
@@ -3746,7 +3746,7 @@ right: 202px;
 }
 
 .hov_box{
-	width: 120px;
+	width: 128px;
 	
 }
 .hero-showcase , .fw-carousel .swiper-container  {
