@@ -3636,7 +3636,7 @@ right: 202px;
 }
 
 .gallery-item:nth-child(12) img {
-	height: 360px;
+	height: auto;
 
 }
 .gallery-item:nth-child(12) .hov_box {
@@ -3685,9 +3685,9 @@ right: 202px;
 
 /*Cambiar el tamaño de hov_box en el child 15*/
 .gallery-item:nth-child(15) .hov_box {
-	width: 264.75px;
-    height: 80.297px;
-    right: 1px;
+	width:auto;
+    height: auto;
+    height: 130%;
 }
 
 .gallery-item:nth-child(15) .hov_box-title {
@@ -3719,10 +3719,10 @@ right: 202px;
 
 .gallery-items {
 	width: 114%;
-    float: left;
+    float: center;
     display: flex;
     left: -8px;
-    top: 0px;
+    top: -4px;
 	
 }
 .gallery-item_dos{
@@ -3740,14 +3740,14 @@ right: 202px;
     overflow:inherit;
 	float: left;
 	width: 100%;
-    padding: 0;
+    padding: 0px;
 }
 .hero-showcase-wrap , .fw-carousel-wrap {
     position: relative;
-	float: left;
-	width: 100%;
+	float: right;
+	width: 111%;
     overflow: inherit;
-	padding-bottom: 30px;
+	
 }
 .main-menu{
 	position: fixed ;
