@@ -3529,17 +3529,17 @@ right: 202px;
 /* plaxa y fuerte Galeana */
 .gallery-item:nth-child(2) {
     width: 66%;
-	float: left;
-	padding:  4px 4px  0;
+	height: 5.7%;
 }
 
 .gallery-item:nth-child(2) img {
-	width: 105%;
-    height: 100%;
-
+	width: 106%;
+   
 }
 .gallery-item:nth-child(2) .hov_box {
-	width: 100%;
+	width: 103%;
+	
+
 }
 .gallery-item:nth-child(1) {
     width: 33%;
@@ -3576,26 +3576,35 @@ right: 202px;
 	float: left;
 	
 }
+.gallery-item:nth-child(6) img {
+    width: 102%;
+	float: left;
+	height: 100%;
+}
 
-/* Numero 7 */
+
+.gallery-item:nth-child(7) img {
+    width: 101%;
+	float: left;
+	height: 100%;
+}
+
+
+/* Numero 7 Chumil*/
 .gallery-item:nth-child(7) {
     width:33%;
 	float: left;
+	height: 8.9%;
 
 }
-.gallery-item:nth-child(7)img {
-    height: auto;
+.gallery-item:nth-child(7) .hov_box {
+	height:134.9%;
 }
 
 
-
-
-
-
-/* Imagen 9 */
+/* Imagen 9 Urbana*/
 .gallery-item:nth-child(8) img {
-	width: 100%;
-	
+	width: 103%;
 	float: left;
 }
 
@@ -3616,7 +3625,8 @@ right: 202px;
 }
 
 .gallery-item:nth-child(10) .hov_box {
-	width: 100%;
+	width: 101%;
+    right: -1%;
 }
 /* Casa Burgos */
 .gallery-item:nth-child(11) {
