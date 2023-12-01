@@ -3686,8 +3686,8 @@ right: 202px;
 /*Cambiar el tamaño de hov_box en el child 15*/
 .gallery-item:nth-child(15) .hov_box {
 	width:auto;
-    height: auto;
-    height: 130%;
+    
+ 
 }
 
 .gallery-item:nth-child(15) .hov_box-title {
