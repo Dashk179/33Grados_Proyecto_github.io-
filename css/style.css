@@ -3618,7 +3618,7 @@ right: 202px;
     width: 33%;
 	/* padding: 7px 3px; */
 	float: left;
-	aspect-ratio: 900/1200; /* Proporción de 1740x530 */
+
     overflow: hidden;
 }
 .gallery-item:nth-child(11) img {
@@ -3657,7 +3657,7 @@ right: 202px;
 
 .gallery-item:nth-child(13) img {
 	width: 220%;
-    height: 120%;
+    height: 100%;
     object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
 }
 
