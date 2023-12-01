@@ -3641,7 +3641,7 @@ right: 202px;
 }
 .gallery-item:nth-child(12) .hov_box {
 	width: auto;
-    height: auto;
+    height: 415px;
 }
 
 
@@ -3674,7 +3674,7 @@ right: 202px;
 /*Casa Olimtepec*/
 .gallery-item:nth-child(15) {
 	width: 65%;
-
+	height: auto;
     overflow: hidden;
 }
 .gallery-item:nth-child(15) img {
@@ -3687,7 +3687,7 @@ right: 202px;
 .gallery-item:nth-child(15) .hov_box {
 	width:auto;
     
- 
+	height: 90%;
 }
 
 .gallery-item:nth-child(15) .hov_box-title {
