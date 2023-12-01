@@ -3631,7 +3631,7 @@ right: 202px;
 .gallery-item:nth-child(12) {
     width: 66%;
 	float: left;
-	height: 24%;
+	
 	
 }
 
@@ -3642,7 +3642,7 @@ right: 202px;
 }
 .gallery-item:nth-child(12) .hov_box {
 	width: auto;
-    height: 122%;
+    height: auto;
 }
 
 
@@ -3661,6 +3661,10 @@ right: 202px;
     object-fit: cover; /* La imagen se ajustará para cubrir toda la proporción del contenedor */
 }
 
+.gallery-item:nth-child(13) .hov_box {
+	width: auto;
+    height: auto;
+}
 /* Emiliano Zapata */
 .gallery-item:nth-child(14) {
     width: 98.1%;
