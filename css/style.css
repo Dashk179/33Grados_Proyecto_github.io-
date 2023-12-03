@@ -3660,7 +3660,21 @@ right: 202px;
     height: auto;
 }
 
+.image-container1 img {
+    margin: 100px auto;
+    max-width: 93%;
+    height: auto;
+    display: block;
+    text-align: center;
+}
 
+.image-container2 img {
+    margin: 100px auto;
+    max-width: 93%;
+    height: auto;
+    display: block;
+    text-align: center;
+}
 /* Bisuu */
 .gallery-item:nth-child(13) {
     width: 33%;
