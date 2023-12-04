@@ -518,7 +518,7 @@ blockquote p {
 }
 
 .hero-section_about_title h2 {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
     font-size: 104px;
     line-height: 90px;
@@ -3403,7 +3403,6 @@ blockquote p {
 }
 
 
-
 .hero-section_about_title h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 66px;
@@ -3415,7 +3414,7 @@ blockquote p {
 }
 
 .hero-section_title_about h2 {
-    font-family: 'Oswald', sans-serif;
+    font-family: Impact, Haettenschweiler,'Oswald', sans-serif;
     font-weight: 700;
     font-size: 21px;
     line-height: 266px;
@@ -3533,7 +3532,7 @@ right: 202px;
 }
 
 .gallery-item:nth-child(2) img {
-	width: 106%;
+	width: 109%;
    
 }
 .gallery-item:nth-child(2) .hov_box {
