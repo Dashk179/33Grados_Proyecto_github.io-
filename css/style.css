@@ -2440,7 +2440,11 @@ blockquote p {
 	flex-direction: column;
 	justify-content: center; /* Cambiado de 'right' a 'center' */
 	align-items: center;
-	margin-top: 45px;
+	margin-top: 126px;
+}
+
+.colaboradores{
+	width: 100%; height: 35vh;  background-size: cover; background-position: center;
 }
 
 .custom-img {
@@ -2448,6 +2452,14 @@ blockquote p {
 	height: 36vh;
 	background-size: cover;
 	background-position: center;
+}
+
+.row_lennin ul {
+	padding: 70px;
+}
+
+.serv-list_pc{
+	margin: 20px;
 }
 
 .hero-section_title_about h2 {
@@ -3473,6 +3485,8 @@ right: 202px;
 }
 .custom-img {
 	width: 100%;
+	background-size: cover; background-position: center;
+	height: 43vh;
 }
 .custom-col {
 	height: 38vh;
@@ -3487,6 +3501,10 @@ right: 202px;
     margin-left: 13px;
     margin-right: -10px;
 }
+.colaboradores{
+	width: 100%; height: 50vh;  background-size: cover; background-position: center;
+}
+
 
 .container ul {
     height: 144px;
