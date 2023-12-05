@@ -517,6 +517,11 @@ blockquote p {
     margin-right: -15px;
 }
 
+.server_list ul {
+	padding: 20px;
+    
+}
+
 .hero-section_about_title h2 {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
@@ -2429,17 +2434,18 @@ blockquote p {
 }
 
 .custom-col {
-	height: 47vh;
+	height: 38vh;
 	width: 120%;
 	display: flex;
 	flex-direction: column;
 	justify-content: center; /* Cambiado de 'right' a 'center' */
 	align-items: center;
+	margin-top: 45px;
 }
 
 .custom-img {
 	width: 18%;
-	height: 38vh;
+	height: 36vh;
 	background-size: cover;
 	background-position: center;
 }
@@ -3466,14 +3472,11 @@ right: 202px;
  
 }
 .custom-img {
-    width: 500%;
-    height: 45vh;
-    background-size: cover;
-    background-position: center;
+	width: 100%;
 }
 .custom-col {
-    height: 48vh;
-    width: 18%;
+	height: 38vh;
+    width: 93%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -3483,6 +3486,10 @@ right: 202px;
 .row_lennin {
     margin-left: 13px;
     margin-right: -10px;
+}
+
+.container ul {
+    height: 144px;
 }
 
 .inline-facts-holder_about {
