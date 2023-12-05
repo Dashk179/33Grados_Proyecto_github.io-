@@ -95,30 +95,30 @@
   
    "title": "CENTRO ECOTURÍSTICO CERRO EL CHUMIL",
    "description": [
-   "Enmarcado por un fabuloso paisaje y al pie del cerro del Chumil se erige el centro ecoturístico del mismo nombre. Dicha construcción es una extensión de una edificación existente, donde  se mezclan los valores de la arquitectura vernácula del pueblo de Jantetelco y la vida de campo de sus habitantes que se reflejan en el lenguaje formal de las casas tradicionales levantadas en un entorno paisajístico.   ",
-   "El proyecto responde a la necesidad del ejido de Jantetelco por generar una oportunidad de desarrollo para la comunidad en el que se ofrece hospedaje en cabañas de adobe, servicios de restaurante, área de acampar, baños sauna y tirolesa. Las cabañas, fabricadas de adobe son de dos tipos, la primera de dos niveles cuenta con una capacidad para ocho personas, mientras que la segunda de un nivel ofrece una área para cuatro personas, ambas dotadas con baño propio. Al estar alejado del ruido de las grandes urbes circundantes, el diseño provee un espacio para la paz y la interiorización del ser humano. ",      
+   "Enmarcado por un fabuloso paisaje y al pie del cerro del Chumil se erige el centro ecoturístico del mismo nombre. Dicha construcción es una extensión de una edificación existente, donde se mezclan los valores de la arquitectura vernácula del pueblo de Jantetelco y la vida de campo de sus habitantes que se reflejan en el lenguaje formal de las casas tradicionales levantadas en un entorno paisajístico.",
+   "El proyecto responde a la necesidad del ejido de Jantetelco por generar una oportunidad de desarrollo para la comunidad en el que se ofrece hospedaje en cabañas de adobe, servicios de restaurante, área de acampar, baños sauna y tirolesa. Las cabañas, fabricadas de adobe son de dos tipos, la primera de dos niveles cuenta con una capacidad para ocho personas, mientras que la segunda de un nivel ofrece un área para cuatro personas, ambas dotadas con baño propio. Al estar alejado del ruido de las grandes urbes circundantes, el diseño provee un espacio para la paz y la interiorización del ser humano.",      
    ""  
  ],
    "arquitecto": "Lennin Vick",
-   "colaboradores": "N/A",
-   "lugar": ["Jantetelco, Mor"],
+   "colaboradores": "-",
+   "lugar": ["Jantetelco, Mor."],
    "fecha": "2012",
-   "superficie": "—- — m2",
+   "superficie": "4,670.00 m2",
    "render": "Arq. Lennin Vick / Arq. Alfredo Zúñiga"
 },
 {
   
    "title": "IMAGEN URBANA CUAUTLA",
    "description": [
-   "Los proyectos imagen urbana tienen el objetivo de recuperar la estética de la arquitectura colonial que se ha visto afectada por múltiples razones. Al ser una zona conurbada de 17 municipios de estado de Morelos, en la zona centro de Cuautla ha proliferado el comercio sin ningún tipo de regulación, esto ha deteriorado no solo las fachadas sino al espacio comprendido en su centro fundacional. El proyecto responde a la necesidad de recuperar el centro histórico de Cuautla, por lo que en 2004 se realiza éste proyecto para mejorar su imagen urbana. ",
-   "Con las acciones que se llevaron a cabo en dicho proyecto como la regulación de anuncios,  los  espectaculares, propuesta de colores en fachadas, reducción de vanos en comercios y la instalación de luminarias nuevas, se logró rescatar parte de la uniformidad que caracterizaba a la arquitectura antigua de ésta ciudad. ",      
+   "Los proyectos imagen urbana tienen el objetivo de recuperar la estética de la arquitectura colonial que se ha visto afectada por múltiples razones. Al ser una zona conurbada de 17 municipios del estado de Morelos, en la zona centro de Cuautla ha proliferado el comercio sin ningún tipo de regulación, esto ha deteriorado no solo las fachadas sino al espacio comprendido en su centro fundacional. El proyecto responde a la necesidad de recuperar el centro histórico de Cuautla, por lo que en 2004 se realiza esta primera etapa para mejorar su imagen urbana.",
+   "Con las acciones que se llevaron a cabo en dicha intervención como la regulación de anuncios,  los  espectaculares, propuesta de colores en fachadas, reducción de vanos en comercios y la instalación de luminarias nuevas, se logró rescatar parte de la uniformidad que caracterizaba a la arquitectura antigua de ésta ciudad.",      
    ""  
  ],
    "arquitecto": "Lennin Vick",
-   "colaboradores": "N/A",
-   "lugar": ["H. H. Cuautla, Mor"],
+   "colaboradores": "-",
+   "lugar": ["H. H. Cuautla, Mor."],
    "fecha": "2004",
-   "superficie": "—- — m2",
+   "superficie": "212.78 m2",
    "render": "Arq. Lennin Vick"
 }
 ,
@@ -126,8 +126,8 @@
   
    "title": "CASAS CLAROSCURO",
    "description": [
-   "Situadas  en una zona residencial cercana a manantiales característicos del lugar, las viviendas ofrecen una respuesta elocuente al contexto residencial del fraccionamiento. El proyecto consta de dos casas que son concebidas en par, así solicitadas, que aunque parecidas en su carácter formal, disimiles entre si. Se analogan en su distribución, juego volumétrico, texturas,  en su relación del interior con el exterior y la forma de tratar el espacio. Se apartan de lo igual, en el color, estableciendo un contraste tonal externo que asemeja a la dualidad presente en toda la naturaleza. ",
-   "Ambas aprovechan la orientación norte para capturar y jugar con la luz de maneras intrigantes a lo largo del diseño y enriquecer la experiencia sensorial de sus habitantes. La una y la otra con un carácter introspectivo conviven y dejan ver su estrecha relación así como su respetuosa autonomía.",      
+   "Situadas en una zona residencial cercana a manantiales característicos del lugar, las viviendas ofrecen una respuesta elocuente al contexto residencial del fraccionamiento. Dichas residencias están concebidas en par, que, aunque parecidas en su carácter formal, disimiles entre sí. Se analogan en su distribución, juego volumétrico, texturas, en su relación del interior con el exterior y la forma de tratar el espacio. Se apartan de lo igual, en el color, estableciendo un contraste tonal externo que asemeja a la dualidad presente en toda la naturaleza. ",
+   "Ambas aprovechan la orientación norte para capturar y jugar con la luz de maneras intrigantes a lo largo del diseño y enriquecer la experiencia sensorial de sus habitantes. La una y la otra con un carácter introspectivo conviven y dejan ver su estrecha relación, así como su respetuosa autonomía.",      
    ""  
  ],
    "arquitecto": "Lennin Vick",
@@ -140,27 +140,29 @@
 ,
 {
   
-   "title": "RESTAURACIÓN ACUEDUCTO EL HOSPITAL",
+   "title": "RESTAURACIÓN DEL ACUEDUCTO EL HOSPITAL",
    "description": [
-   "En medio de cañaverales y con una extensión aproximada de 1200m se erige ésta construcción del Siglo XVII que forma parte de la Hacienda de Nuestra Sra. de la Concepción y que se ubica en la comunidad del Hospital dentro del municipio de Cuautla.",
-   "El acueducto se compone de mampostería de piedra caliza y en su mayoría son arcos de tres puntos, comúnmente denominados arcos carpanel. Dicho monumento sufrió averías en el terremoto del año 2017 y diversos arcos se vieron afectados y en casos extremos fueron destruidos. El proyecto de restauración se inicia en el 2019 y será actividad de varios años de arduo trabajo. ",      
-   "Ésta tarea de recuperación del patrimonio se lleva a cabo a través de la dinámica del voluntariado con la Asociación Mexicana de Voluntariado Internacional A. C. (AMVIAC) donde la comunidad es parte esencial del proyecto y en la que cualquier persona puede intervenir el monumento. Es justo esta actividad en la que se basa el concepto de la salvaguarda del patrimonio, ya que la comunidad a través del contacto directo con la construcción es capaz de sensibilizarse garantizando así su protección."  
+   "En medio de cañaverales y con una extensión aproximada de 1,200m se erige ésta construcción del Siglo XVII que forma parte de la Hacienda de Nuestra Sra. de la Concepción y que se ubica en la comunidad del Hospital dentro del municipio de Cuautla.",
+   "El acueducto se compone de mampostería de piedra caliza y en su mayoría son arcos de tres puntos, comúnmente denominados arcos carpanel. Dicho monumento sufrió averías en el terremoto del año 2017 y diversos arcos se vieron afectados y en casos extremos fueron destruidos. El proyecto de restauración se inicia en el 2019 y será actividad de varios años de arduo trabajo.",      
+   "Esta tarea de recuperación del patrimonio se lleva a cabo a través de la dinámica del voluntariado con la Asociación Mexicana de Voluntariado Internacional A. C. (AMVIAC) donde la comunidad es parte esencial del proyecto y en la que cualquier persona puede intervenir el monumento. Es justo esta actividad en la que se basa el concepto de la salvaguarda del patrimonio, ya que la comunidad a través del contacto directo con la construcción es capaz de sensibilizarse garantizando así su protección."  
  ],
    "arquitecto": "Lennin Vick",
-   "colaboradores": "N/A",
-   "lugar": ["El Hospital, Cuautla, Mor."],
+   "colaboradores": "AMVIAC",
+   "lugar": ["El Hospital, Cuautla, Mor"],
    "fecha": "2019 a la fecha",
-   "superficie": "1200.00 m",
+   "superficie": "1,200.00 m",
    "render": "Arq. Luis Zúñiga, Arq. Alexis F. Pacheco, Arq. Jair Bollera, Arq. Agustín Rafols"
 },
 {
   
    "title": "CASA BURGOS",
    "description": [
-   "Erigida al fondo del predio, la casa ha integrado gestos clave como la continuidad visual y la singularidad volumétrica.",
-   "El predio sobre el cual se desplanta se ubica en esquina, el lado norte se encuentra a nivel y a través de una calle en “U” desciende 6.60 metros en su lado oriente. Se establece un acceso en la calle mas baja que colinda con una área de recreación comunal.",
-   "En una primera planta se desarrolla la mayor parte de los espacios, dividida en dos ejes, por un lado la sala, comedor, cocina y patio de servicio mientras que, por otro lado las dos recamaras. En planta baja se encuentra una recamara adicional.   " ,
-   "La geometría introspectiva al exterior de la casa se origina a partir de la forma de trapecio del terreno, el volumen inferior se alinea al borde oriente mientras que el volumen superior corresponde al borde poniente, esto genera su peculiar característica.  Entre el acceso y la casa se desarrolla un jardin con vegetación profusa al cobijo de un gran hule que colabora en la sensación de tranquilidad y paz para el usuario final."
+   "Erigida al fondo del predio, la casa ha integrado gestos clave como la continuidad visual y la singularidad volumétrica",
+   "El predio sobre el cual se desplanta se ubica en esquina, el lado norte se encuentra a nivel y a través de una calle en “U” desciende 6.60 metros en su lado oriente. Se establece un acceso en la calle más baja que colinda con un área de recreación comunal.",
+   "En una primera planta se desarrolla la mayor parte de los espacios, dividida en dos ejes, por un lado, la sala, comedor, cocina y patio de servicio mientras que, por otro lado, las dos recámaras. En planta baja se encuentra una recámara adicional." ,
+   "La geometría introspectiva al exterior de la casa se origina a partir de la forma de trapecio del terreno, el volumen inferior se alinea al borde oriente mientras que el volumen superior corresponde al borde poniente, esto genera su peculiar característica.",
+   "Entre el acceso y la casa se desarrolla un jardín con vegetación profusa al cobijo de un gran hule que colabora en la sensación de tranquilidad y paz para el usuario final."
+   
  ],
    "arquitecto": "Lennin Vick",
    "colaboradores": "Arq. Jair Bollera",
@@ -172,18 +174,19 @@
 ,
 {
   
-   "title": "CENTRO ECOTURISTICO PIEDRA RAJADA",
+   "title": "CENTRO ECOTURÍSTICO PIEDRA RAJADA",
    "description": [
    "Poseedor de un paisaje extraordinario, ubicado al oriente de Estado de Morelos en la comunidad de Chalcatzingo, se construyó el centro ecoturístico “Piedra Rajada”.",
-   "Este espacio obedece a la necesidad de generar una oportunidad de desarrollo para varios pueblos indígenas de la región, representadas por las mujeres de la Organización de Mujeres Orgullosamente Indígenas A C. (OMOI A.C.) Es un desarrollo que ofrece hospedaje en cabañas de adobe, artesanías, área de acampar, servicio de restaurante y albercas así como el acceso a su icónico cuexcomate que, para fin del proyecto, se adaptó como un sencillo mirador que observa a las montañas y a la zona arqueológica. El proyecto se realiza en 5 etapas donde se enaltecen los valores de la arquitectura vernácula al retomar el lenguaje formal de las construcciones del entorno y en las cuales se observan techos inclinados con teja plana, muros de adobe, pisos de barro y la utilización de la madera. El resultado ofrece una integración de la geometría arquitectónica con el exquisito paisaje que muestra como fondo al cerro de Chalcatzingo y la montaña del perrito.",      
+   "Este espacio obedece a la necesidad de generar una oportunidad de desarrollo para varios pueblos indígenas de la región, representadas por las mujeres de la Organización de Mujeres Orgullosamente Indígenas A C. (OMOI A.C.) Es un desarrollo que ofrece hospedaje en cabañas de adobe, artesanías, área de acampar, servicio de restaurante y albercas, así como el acceso a su icónico cuexcomate que, para fin del proyecto, se adaptó como un sencillo mirador que observa a las montañas y a la zona arqueológica.",      
+   "El proyecto se realiza en cinco etapas donde se enaltecen los valores de la arquitectura vernácula al retomar el lenguaje formal de las construcciones del entorno y en las cuales se observan techos inclinados con teja plana, muros de adobe, pisos de barro y la utilización de la madera. El resultado ofrece una integración de la geometría arquitectónica con el exquisito paisaje que muestra como fondo al cerro de Chalcatzingo y la “montaña del perrito”.",
    "Piedra Rajada se ha sumado a la zona arqueológica de Chalcatzingo como atracción turística cultural local y ha inyectado nueva vitalidad al desarrollo del pueblo."  
  ],
    "arquitecto": "Lennin Vick",
-   "colaboradores": "—-",
+   "colaboradores": "-",
    "lugar": ["Chalcatzingo, Jantetelco, Mor."],
    "fecha": "2009-2014",
-   "superficie": "—- — m2",
-   "render": "Arq. Lennin Vick"
+   "superficie": "12,700.00 m2",
+   "render": "Fotografía: Arq. Lennin Vick"
 },
 {
   
