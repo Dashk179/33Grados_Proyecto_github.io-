@@ -26,8 +26,8 @@
         "axonometrico2" : "images/TRABAJOS/Detalles/05-RECICLADORA/AXONOMETRICOS/FACHADA-RECICLADORA.png"
     },
     {
-        "axonometrico1" : "images/TRABAJOS/Detalles/06-HOTEL3S/AXONOMETRICOS/AXONOMETRICO-HOTEL3S.png",
-        "axonometrico2" : "images/TRABAJOS/Detalles/06-HOTEL3S/AXONOMETRICOS/FACHADA_HOTEL3S.png"
+        "axonometrico2" : "images/TRABAJOS/Detalles/06-HOTEL3S/AXONOMETRICOS/AXONOMETRICO-HOTEL3S.png",
+        "axonometrico1" : "images/TRABAJOS/Detalles/06-HOTEL3S/AXONOMETRICOS/FACHADA_HOTEL3S.png"
     },
     {
         "axonometrico1" : "images/TRABAJOS/Detalles/07-CHUMIL/AXONOMETRICOS/axonometrico.png"
@@ -40,7 +40,8 @@
     ,
 
     {
-        "axonometrico1" : "images/TRABAJOS/Detalles/10-CASA CLAROSCURO/AXONOMETRICOS/axonometrico.png"
+        "axonometrico2" : "images/TRABAJOS/Detalles/10-CASA CLAROSCURO/AXONOMETRICOS/axonometrico.png",
+        "axonometrico1" : "images/TRABAJOS/Detalles/10-CASA CLAROSCURO/AXONOMETRICOS/FACHADA.png"
     }
 
     ,
@@ -102,8 +103,8 @@
 
     {
         
-        "axonometrico1" : "images/TRABAJOS/Detalles/19-CASA-NACOZARI/AXONOMETRICOS/AXO_NACOZARI.png",
-        "axonometrico2" : "images/TRABAJOS/Detalles/19-CASA-NACOZARI/AXONOMETRICOS/FACHADA_NACOZARI.png"
+        "axonometrico2" : "images/TRABAJOS/Detalles/19-CASA-NACOZARI/AXONOMETRICOS/AXO_NACOZARI.png",
+        "axonometrico1" : "images/TRABAJOS/Detalles/19-CASA-NACOZARI/AXONOMETRICOS/FACHADA_NACOZARI.png"
 
 
     }
