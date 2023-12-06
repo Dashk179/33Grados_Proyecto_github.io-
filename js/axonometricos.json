@@ -29,8 +29,8 @@
         "axonometrico2" : "images/TRABAJOS/Detalles/06-HOTEL3S/AXONOMETRICOS/AXONOMETRICO-HOTEL3S.png",
         "axonometrico1" : "images/TRABAJOS/Detalles/06-HOTEL3S/AXONOMETRICOS/FACHADA_HOTEL3S.png"
     },
-    {
-        "axonometrico1" : "images/TRABAJOS/Detalles/07-CHUMIL/AXONOMETRICOS/axonometrico.png"
+    {   "axonometrico1" : "images/TRABAJOS/Detalles/07-CHUMIL/AXONOMETRICOS/fachada.png",
+        "axonometrico2" : "images/TRABAJOS/Detalles/07-CHUMIL/AXONOMETRICOS/axonometrico.png"
     }
     ,
 
@@ -60,7 +60,9 @@
     ,
 
     {
-        "axonometrico1" : "images/TRABAJOS/Detalles/12-CENTRO_ECOTURISTICO/AXONOMETRICOS/AXONOMETRICO_01.png"
+        "axonometrico1" : "images/TRABAJOS/Detalles/12-CENTRO_ECOTURISTICO/AXONOMETRICOS/fachada.png",
+        "axonometrico2" : "images/TRABAJOS/Detalles/12-CENTRO_ECOTURISTICO/AXONOMETRICOS/AXONOMETRICO_01.png"
+        
     }
     
     ,
