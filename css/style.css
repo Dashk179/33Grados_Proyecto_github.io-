@@ -1358,6 +1358,7 @@ blockquote p {
 	padding: 60px 0 30px;
 }
 .pr-det_box h2 {
+	text-align:left;
 	color: #fff;
 	font-size: 26px;
 	font-weight: 700;
