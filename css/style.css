@@ -199,6 +199,9 @@ blockquote p {
 .small-container {
 	max-width: 1064px;
 }
+.small-container_mas {
+	max-width: 1465px;
+}
 .header-bg {
 	position: fixed;
 	top: 0;
@@ -2510,6 +2513,50 @@ blockquote p {
 .colabactivo_contenido_2003 ul{
 	font-size: 12px; width: 150%; height: 127px;  text-align: left;
 }
+
+
+.inline-facts-holder_moreproyects {
+	text-align: right;
+    margin-top: 12px;
+    left: 0px;
+    width: 282px;
+    font-size: 12px;
+}
+.row_moreproyects{
+
+}
+.serv-list_moreproyects  {
+    float: left;
+    width: 100%;
+    margin-top: 12px;
+    padding-top: 20px;
+   
+}
+
+.serv-list_moreproyects  h1 {
+   color: red;
+   text-align: center;
+   
+}
+
+.serv-list_moreproyects  h2 {
+	text-align: center;
+	
+ }
+
+.hero-section_bg_moreproyects {
+    overflow: hidden;
+    padding: 59px 0px;
+    z-index: 1;
+}
+.container_mas {
+    max-width: 1403px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    z-index: 5;
+}
+
 /*
 /* ------responsive------------------------------------------------------------ */
 @media only screen and (max-width: 1264px) {
@@ -3518,6 +3565,8 @@ right: 202px;
     width: 282px;
     font-size: 12px;
 } 
+
+ 
 
 .inline-facts {
     float: left;
