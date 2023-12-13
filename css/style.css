@@ -3467,7 +3467,13 @@ blockquote p {
 .hb_mob , .nav-button-wrap , .mob-footer_gal , .mob-footer_gal.mfg-2 , .mob-spinner {
 	display: block;
 }
-
+.serv-list_moreproyects {
+    float: left;
+    width: 100%;
+    margin-top: 12px;
+    padding-top: 20px;
+    height: 38px;
+}
 
 .hero-section_about_title h2 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
