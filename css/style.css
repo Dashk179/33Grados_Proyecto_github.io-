@@ -3780,9 +3780,13 @@ right: 202px;
 /* Emiliano Zapata */
 .gallery-item:nth-child(14) {
     width: 98.1%;
-
-	float: left;
 	
+}
+
+.control_item{
+	position: absolute;
+    left: 1280px;
+    top: 413px;
 }
 .gallery-item:nth-child(14) .hov_box {
     width: auto;
@@ -3821,7 +3825,7 @@ right: 202px;
 } 
 
 .gallery-item:nth-child(16) img {
-	width: 107%;
+	width: 114%;
    
 }
 
