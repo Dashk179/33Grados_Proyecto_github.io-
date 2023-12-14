@@ -3820,6 +3820,12 @@ right: 202px;
 	float: left;
 } 
 
+.gallery-item:nth-child(16) img {
+	width: 107%;
+   
+}
+
+
 /*casa Blanca*/
 .gallery-item:nth-child(17) {
     width: 33%;
