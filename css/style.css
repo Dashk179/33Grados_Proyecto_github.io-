@@ -2556,6 +2556,9 @@ blockquote p {
     position: relative;
     z-index: 5;
 }
+.hidden-content {
+    display: none;
+}
 
 /*
 /* ------responsive------------------------------------------------------------ */
@@ -3813,6 +3816,7 @@ right: 202px;
 /* Casa Staines */
 .gallery-item:nth-child(16) {
     width: 33%;
+	height: auto;
 	float: left;
 } 
 
