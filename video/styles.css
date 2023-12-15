@@ -141,8 +141,8 @@ button {
 
     .button-container {
         position: absolute;
-        top: 0%;
-        left: 36%;
+        top: 4%;
+        left: 34%;
         transform: translate(-10%, -10%);
         z-index: 2;
     }
