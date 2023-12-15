@@ -3492,6 +3492,19 @@ blockquote p {
     cursor: pointer;
     font-size: 30px;
 }
+.gallery-filters {
+    width: 0px;
+    position: absolute;
+    top: 59%;
+    right: 50%;
+    transform: translateY(-50%);
+    z-index: 3;
+    display: flex;
+    flex-direction: column;
+}
+.gallery-filters a {
+	font-size: 12px;
+}
 
 .gallery-item CIUDAD {
 	width: 100%;
