@@ -125,10 +125,24 @@ button {
 }
 
 @media only screen and (max-width: 564px) {
+
+
+    button {
+        padding: 75px;
+        background-color: transparent;
+        border: none;
+        color: white;
+        cursor: pointer;
+        display: block;
+        background-image: url(LogoWebInicio2.png);
+        background-size: cover;
+        transition: transform 0.5s ease-in-out;
+    }
+
     .button-container {
         position: absolute;
-        top: 38%;
-        left: 29%;
+        top: 0%;
+        left: 36%;
         transform: translate(-10%, -10%);
         z-index: 2;
     }
