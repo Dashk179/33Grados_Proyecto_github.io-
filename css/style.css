@@ -3473,6 +3473,18 @@ blockquote p {
 .hb_mob , .nav-button-wrap , .mob-footer_gal , .mob-footer_gal.mfg-2 , .mob-spinner {
 	display: block;
 }
+
+.gallery-item CIUDAD {
+	width: 100%;
+}
+.gallery-item h2 {
+	text-align: center;
+	
+	width: 310%;
+}
+.gallery-item h1 {
+	width: 300%;
+}
 .serv-list_moreproyects {
     float: left;
     width: 100%;
@@ -3680,7 +3692,7 @@ right: 202px;
 .gallery-item:nth-child(7) {
     width:33%;
 	float: left;
-	height: 8.9%;
+	
 
 }
 .gallery-item:nth-child(7) .hov_box {

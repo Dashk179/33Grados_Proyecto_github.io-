@@ -63,12 +63,12 @@
                     <!-- gallery-filters-wrap-->
                     <div class="gallery-filters-wrap">
                         <div class="gallery-filters">
-                            <a href="#" class="gallery-filter  gallery-filter-active" data-filter="*"><span>01.</span>TODO</a>
+                            <a href="#" class="gallery-filter  gallery-filter-active" data-filter="*" onclick="eliminarTextoDelH2()"><span>01.</span>TODO</a>
                             <a href="#" class="gallery-filter" data-filter=".ARQUITECTURA_RESIDENCIAl"><span>02.</span>ARQUITECTURA RESIDENCIAl</a>
                             <a href="#" class="gallery-filter" data-filter=".CULTURAL"><span>03.</span>ARQUITECTURA CULTURAL / ECOTURISMO</a>
                             <a href="#" class="gallery-filter" data-filter=".COMERCIAL"><span>04.</span>ARQUITECTURA COMERCIAL</a>
                             <a href="#" class="gallery-filter" data-filter=".REMODELACION"><span>05.</span>REMODELACIÓN / INTERIORISMO</a>
-                            <a href="#" class="gallery-filter"  data-filter=".CIUDAD"><span>06.</span>PROYECTOS PARA UNA HEROICA CIUDAD</a>
+                            <a href="#" class="gallery-filter"  data-filter=".CIUDAD"  onclick="agregarTextoAlH2()"><span>06.</span>PROYECTOS PARA UNA HEROICA CIUDAD</a>
                             <a href="#" class="gallery-filter" data-filter=".HISTORICOS"><span>07.</span>RESTAURACIÓN DE MONUMENTOS HISTÓRICOS</a>
                             <div class="count-folio">
                                 <div class="num-album"></div>
@@ -105,6 +105,7 @@
                                                 <div class="cat_item">2015</div>
                                             </div>
                                         </div>
+                                      
                                     </div>
                                     <!-- gallery-item end-->	
                                        <!-- gallery-item -->
@@ -169,6 +170,8 @@
                                     <!-- gallery-item end-->						
                                     <!-- gallery-item -->
                                     <div class="gallery-item CIUDAD">
+                                        <h1 style="font-size: revert;"></h1>
+                                        <h2 style="text-align: justify;"></h2>
                                         <div class="hov_box">
                                             <img src="images/TRABAJOS/09-URBANA.jpg" alt="">
                                             <div class="overlay"></div>
@@ -177,6 +180,7 @@
                                                 <div class="cat_item">2004</div>
                                             </div>
                                         </div>
+                                        
                                     </div>
                                     <!-- gallery-item end-->
                                     <!-- gallery-item -->
@@ -352,6 +356,26 @@
             </div>
             <!-- cursor end--> 			
         </div>
+        <script>
+            function agregarTextoAlH2() {
+                // Obtén el elemento h2
+                var h2Element = document.querySelector('.gallery-item.CIUDAD h2');
+                var h1Element = document.querySelector('.gallery-item.CIUDAD h1');
+                h1Element.textContent = 'PROYECTOS PARA UNA HEROICA CIUDAD'
+                // Agrega el texto que deseas
+                h2Element.textContent = 'La Heroica e Histórica Cuautla, Morelos es una ciudad que cuenta con una característica valiosa, pues en sus calles acontecieron hechos históricos determinantes en la historia reciente de México a través de personajes que lideraban los movimientos independentistas y revolucionarios.Por medio de la investigación histórica se revelan ubicaciones donde acontecieron los mencionados sucesos y que nos sugieren la creación de proyectos que conmemoren estos episodios.Los proyectos no solo pretenden resignificar el espacio público existente a través de nuevas plazuelas, parques, andadores, imagen urbana, jardines, museos y la restauración de los monumentos históricos, además comparten el objetivo de reforzar el sentido de pertenencia mediante la concientización colectiva y así coadyuvar en la protección y salvaguarda del patrimonio cultural de la ciudad.';
+            }
+
+            function eliminarTextoDelH2() {
+        // Obtén el elemento h2
+        var h2Element = document.querySelector('.gallery-item.CIUDAD h2');
+        var h1Element = document.querySelector('.gallery-item.CIUDAD h1');
+
+        // Elimina el texto del h2
+        h2Element.textContent = '';
+        h1Element.textContent = '';
+    }
+        </script>
         <!-- Main end -->
         <!--=============== scripts  ===============-->
 		<script src="js/jquery.min.js"></script>
